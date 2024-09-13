@@ -4,8 +4,6 @@ from datetime import datetime
 import csv
 import json
 
-
-
 composite_header = "Composite by pair"
 occurrence_header = "Occurrence"
 percentage_header = "% AVG"

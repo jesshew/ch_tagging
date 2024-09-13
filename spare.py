@@ -27,7 +27,6 @@ df['ai_category_1'] = df['level_2_category_2_lower'].map(level_2_to_level_1)
 
 # Drop the temporary lowercase column
 df = df.drop(columns=['level_2_category_2_lower'])
-
 # Define the new column 'ai_category_1'
 df['ai_category_2'] = df['level_2_category_2']
 df['match'] = df['gt_category_2'] == df['level_2_category_2']

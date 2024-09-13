@@ -1,9 +1,11 @@
 {
     "Ticket Categories": {
       "Customer Account Details": {
+        "Customer Account Details": {
         "Change / Update Info": {},
         "ZUS Balance Withdrawal": {},
         "Unsubscribe": {}
+        }
       },
       "Outlet": {
         "Product / Menu Details": {
@@ -40,9 +42,11 @@
         }
       },
       "Promotion / Voucher": {
+        "Promotion / Voucher": {
         "Inquiry / Method": {},
         "Misleading / Dissatisfaction": {},
         "Missed Out - Promo Code": {}
+        }
       },
       "Order Info / Status": {
         "Pickup Info / Status": {
@@ -62,10 +66,12 @@
         }
       },
       "Cancellation": {
+        "Cancellation": {
         "Cancellation - Incorrect Order": {},
         "Cancellation - Long Waiting Time": {},
         "Cancellation - No Rider": {},
         "Cancellation - Wrong Outlet / Address": {}
+        }
       },
       "Refund": {
         "Refund Status": {
@@ -75,7 +81,9 @@
         }
       },
       "Return": {
+        "Return":{
         "Customer Unreachable / Unavailable": {}
+        }
       },
       "Delivery": {
         "Delivery Info / Status": {
@@ -89,6 +97,7 @@
         }
       },
       "Feedback / Improvement": {
+        "Feedback / Improvement": {
         "Suggestion - New Outlet": {},
         "Product": {},
         "KDS & Xilnex Issue": {},
@@ -98,8 +107,10 @@
         "App - Gift Cards": {},
         "Compliment (WOW)": {},
         "Complaints": {}
+        }
       },
       "Other(s)": {
+        "Other(s)": {
         "Career": {},
         "Partnership / Sponsor": {},
         "Products / Suppliers": {},
@@ -107,6 +118,7 @@
         "Employee Welfare (Retail Ops)": {},
         "Bot Conversation": {}
       }
+    }
     }
   }
   
