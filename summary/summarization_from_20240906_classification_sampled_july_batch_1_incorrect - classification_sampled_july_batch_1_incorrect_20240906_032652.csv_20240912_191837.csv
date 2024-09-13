@@ -1,0 +1,1191 @@
+ticket.id,gt_category_1,gt_department,gt_category_2,text,summary,token_count
+456149,Feedback / Improvement,Tech,App - Buffering / Lag,"user: What details u want
+user: hairanitokijan297@gmail.com
+user: 0102808137
+agent: Hi this is Pavitra, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Thank you for the details.
+agent: We sincerely apologize for any inconvenience caused. Please hold on while we check on this.
+agent: Thank you for waiting.
+agent: We are putting the highest priority on this issue and will forward it to the relevant team to check and take necessary action to prevent this from happening again.
+agent: We understand how unpleasant this experience must have been for you and we would like to apologize for this.
+user: Please make sure follow timed order, if cannot follow what for u guys give option to choose time? And please make sure not done delivered order when customer not collect yet
+agent: Thank you for bringing this issue to our attention.
+agent: We apologize sincerely for the distress caused by the issue and want to assure you that we're committed to making it right.
+agent: We hope to serve you better in the future. Apart from this, is there anything else we could assist you with?
+
+agent: 
+As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+Thank you and have a pleasant day ahead! 😊
+","Customer sentiment: Frustrated  
+Primary Concern: Issues with order timing and delivery  
+Identified Problem: Mismanagement of order delivery timing  
+Contributing Factors:  
+- Lack of adherence to scheduled delivery times  
+- Delivery made without customer collection confirmation  
+Resolution Offered: The issue has been escalated to the relevant team for further action and prevention of future occurrences.  
+Overall Summary: The customer expressed frustration regarding the delivery of their order, specifically mentioning that the delivery was made without confirming collection and that the timing was not followed as promised. The agent acknowledged the issue, apologized, and assured the customer that it would be escalated to prevent future occurrences. The root cause appears to be a mismanagement of order delivery timing and processes.  
+
+Suggested departments for further investigation:  
+- Delivery Operations Team  
+- Customer Service Management  
+- Quality Assurance Team",806
+434708,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Hi
+user: i just change my HP to iPhone and now unable to log in to zus app
+agent: Hi this is Amirah, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi there, good morning.
+agent: We are sorry you are unable to log in to the app.
+user: 
+I type in my HP number but can’t get the Whatapp / sms on verification code
+
+agent: Thank you for the screenshot.
+agent: We suggest you uninstall, install the app and clear the cache.
+agent: If the same issue still persist, please let us know. We will further check with our team.
+user: I did what you said, uninstall and install
+user: how to clear the cache?
+user: Already settled . Tq
+agent: Happy to know you are able to log in to the app.
+agent: You are welcome.
+agent: Once again, we are sorry for the app issue and constantly striving to improve the app for a better user experience.
+
+agent: Is there anything else we could assist you with? 
+
+agent: 
+As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+Thank you and have a pleasant day ahead! 😊
+","Customer sentiment: Neutral  
+Primary Concern: Unable to log in to the zus app after switching from HP to iPhone  
+Identified Problem: Verification code not received via WhatsApp/SMS  
+Contributing Factors:  
+- Change of device (from HP to iPhone) may have affected app settings or account verification  
+- Potential issues with the app's verification system or user account settings  
+Resolution Offered: Suggested uninstalling and reinstalling the app, as well as clearing the cache  
+Overall Summary: The customer initially faced an issue logging into the zus app after switching from an HP device to an iPhone, specifically not receiving the verification code via WhatsApp or SMS. After following the agent's advice to uninstall and reinstall the app, the customer was able to resolve the issue. The root cause appears to be related to the change in device, which may have disrupted the verification process. The agent expressed apologies for the inconvenience and offered further assistance if needed.  
+
+Suggested departments for further investigation:  
+- Technical Support Team (to investigate verification code issues)  
+- App Development Team (to assess compatibility and functionality across different devices)  
+- Customer Account Management (to ensure account settings are correctly configured after device changes)",868
+434565,Feedback / Improvement,Tech,App - Buffering / Lag,"user: 
+user: I have change my handphone, and now I m not able to log in zus coffee apps
+user: 
+user: I received this pop out msg
+agent: Hi this is Vethiyani, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Good Day to you. Thank you for contacting ZUS Coffee Malaysia.
+agent: Apologies on the inconvenience that caused. 
+
+agent: Please follow these basic troubleshooting steps to resolve the issue:1. Uninstall the application from your device.2. Clear the cache of the app. This can be done by going to the settings of your device, selecting the app, and then clearing its cache.3. Reinstall the app by downloading it again from the app store.If the problem persists after performing these steps, please let us know so that we can assist you further.
+agent: We hope that this information will be helpful to you.
+
+agent: If you require additional assistance, please feel free to reopen this chat. We will promptly provide the support you need. I will conclude the chat at this point. Thank you and have a pleasant day! 
+","Customer sentiment: Frustrated  
+Primary Concern: Unable to log in to the ZUS Coffee app after changing phones  
+Identified Problem: Potential compatibility or account access issue due to device change  
+Contributing Factors:  
+- Change of device leading to login issues  
+- Possible app cache or installation problems  
+Resolution Offered: Troubleshooting steps including uninstalling, clearing cache, and reinstalling the app  
+Overall Summary: The customer expressed frustration over being unable to log into the ZUS Coffee app after changing their phone. The agent provided troubleshooting steps to resolve the issue, indicating that the problem may stem from the device change affecting app functionality. The customer was advised to follow these steps and reach out again if the issue persisted.  
+
+Suggested departments for further investigation: IT Support (for app functionality), Customer Service (for account access issues).",742
+441682,Feedback / Improvement,Tech,App - Buffering / Lag,"user: System problem
+user: Repeat order
+agent: Hi this is Amirah, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Alan Khoo, good morning.
+user: Hi
+agent: We are sorry you having an issue with the system.
+agent: May we know if you have taken a screenshot or video recording of the error? As we need to further check with our team.
+agent: Hi Alan, just wanted to check if you are still with me?
+agent: May we refund one of your orders, 24071504023 via ZUS Balance? The refund will be credited immediately.
+agent: 
+As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+Thank you and have a pleasant day ahead! 😊
+","Customer sentiment: Frustrated  
+Primary Concern: System error affecting order repetition  
+Identified Problem: Technical issue with the ordering system  
+Contributing Factors:  
+- Lack of clear communication regarding the nature of the system problem  
+- Absence of customer feedback or confirmation during the chat  
+Resolution Offered: Refund of one order via ZUS Balance  
+Overall Summary: The customer, Alan Khoo, reported a system problem while trying to repeat an order. The agent acknowledged the issue and requested further information, such as a screenshot or video of the error, to assist in resolving it. The agent offered a refund for one of the orders as a resolution. However, the interaction ended without further input from the customer, leading to a closure of the chat. The root cause appears to be a technical issue with the ordering system, compounded by insufficient communication and engagement during the chat.  
+
+Suggested departments for further investigation: IT Support, Customer Service Management, and Product Development.",726
+434693,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Hi , I download the ZUS app but I cant order . When it comes to add my number , it didnt allow me to go to next step to receive 4 digit code , It just stated , sorry
+agent: Hi this is Nuraini, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: May we get the error message and your phone number for us to assist further?
+user: 
+user: This is what it says
+user: I even asked my 2 other friends with different phone number to sign in , its the same message they receive
+agent: Thank you for the picture provided.
+agent: We kindly recommend uninstalling and reinstalling the apps.
+
+agent: If the issue persists, please reach out to us for us to assist further.
+user: Did that , it did not work
+agent: Please give me a moment to check on this matter.
+agent: Thank you for waiting.
+agent: Rest assured, our technical team has been notified and is actively working towards resolving this matter promptly.
+
+user: Okay and ?
+user: I want to drink ZUS today
+user: Not wait until the app is fixed .
+agent: Kindly provide our team some time to fix this as soon as possible.
+
+agent: Your patience is really appreciated.
+user: Then how can I get the Buy 1 Free 1 ?
+user: New number ?
+agent: You may create a new account or kindly wait for our team to fix this issue as soon as possible.
+agent: Apart from this, is there anything else we could assist you with?
+
+agent: As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.","Customer sentiment: Frustrated  
+Primary Concern: Inability to order through the ZUS app due to a verification code issue.  
+Identified Problem: Technical issue preventing users from receiving the 4-digit verification code.  
+Contributing Factors:  
+- Multiple users (customer's friends) experiencing the same issue, indicating a potential widespread technical problem.  
+- Suggested solutions (uninstalling and reinstalling the app) did not resolve the issue.  
+Resolution Offered: The agent suggested uninstalling and reinstalling the app, and mentioned that the technical team is working on the issue. The customer was also given the option to create a new account.  
+Overall Summary: The customer expressed frustration over being unable to order through the ZUS app due to a failure in receiving a verification code. Despite attempts to resolve the issue, including uninstalling and reinstalling the app, the problem persisted, affecting multiple users. The root cause appears to be a technical issue that the support team is addressing. The customer was left without a solution to access the app immediately.  
+
+Suggested departments for further investigation: Technical Support Team, App Development Team.",936
+435821,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Has a problem with verifying my account. Channel: whatsapp  Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c37116acf766064d365f96d4b8727c67cb2d3405d621/6683d4169903ef0001248bd4
+user: Hello, I can't verify my account through email. There's a problem with the link.
+agent: We sincerely apologize for the inconvenience caused by the issue with our app.
+
+Rest assured, our team is working diligently to resolve the problem and ensure that it doesn't happen again in the future.
+
+Kindly select the option below
+
+user: 1
+agent: Kindly provide us with a clear image/ video recording of the issue.
+
+agent: Pris, can you please enter your email ID?
+
+user: Priscaernest@gmail.com
+agent: Pris, can you explain your issue briefly?
+
+user: Has a problem with verifying my account.
+agent: A live agent has been connected
+
+user: Okay
+agent: Hi Pris, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+
+user: Okay
+agent: Hi, I'm Pavitra Nair, I will be assisting you today. 
+
+agent: We apologize for the delay in responding as we have received a large number of requests. Rest assured, our team is working on improving their response time to inquiries.
+
+agent: Please be advise to do basic troubleshoot first as per below:
+
+1. Refresh ZUS APP – try to restart the application to check if the problem persists.
+2. Clear App Cache – try to clear browser cache and cookies, as this will help you to fix minor bugs and errors.
+3. Uninstall and reinstall the application
+
+agent: Please do let us know if the issue still persists.
+
+agent: Hope this helps. Apart from this, Is there anything else we could assist you with?
+
+user: Alright, I'll try this first.
+user: Hello, I've tried all the step and im still unable to verify
+agent: May I confirm did you check on the junk email if you have received any new verification email there?
+
+user: Yes, i received the email. However, the link cant be open. It leads to a broken link.
+agent: Understood, we will escalate this issue to the respective team to check in detail.
+
+agent: We apologies for the inconvenience and hope to serve you better in the future. Apart from this, is there anything else we could assist you with?
+
+user: I need to verify my email first before I can receive voucher right? Since I'm a new user.
+agent: The BUY1FREE1 promo is applicable for the first purchase with us via ZUS App.  
+
+
+Kindly choose any two handcrafted drinks from the menu, handcrafted would mean drinks that need to be prepared by our barista (not bottled drinks | or pre-made).
+At the voucher section, click add voucher and add in the promo code, BUY1FREE1 --> click the voucher that appears.
+The FREE drink will be applied to the lowest base value drink added to the cart, BUT capped at RM 10.50 only
+
+
+After adding the voucher and then proceed with payment accordingly. 
+
+agent: We will promptly address the issue with our technical team to ensure that it is resolved from their end. In the meantime, you can continue to use the ZUS apps as usual.
+
+agent: Hope this clarifies. Apart from this, Is there anything else we could assist you with?
+
+user: Okay, thank you.
+agent: You're welcome.
+
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: 5
+agent: I'm glad.
+Please feel free to reach out to me for any further queries.
+
+When in need just say """"Hi""""
+
+user: five
+agent: Thank you for your details.
+
+agent: Hi Prisca Ernest how can I help you today?
+
+agent: We've not heard from you for a while and we assume you've stepped away. If you want to restart the conversation, please type """"Hi"""".
+
+user: Okay
+agent: Hi Pris, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+user: Okay
+agent: Hi, I'm Pavitra Nair, I will be assisting you today. 
+agent: We apologize for the delay in responding as we have received a large number of requests. Rest assured, our team is working on improving their response time to inquiries.
+agent: Please be advise to do basic troubleshoot first as per below:1. Refresh ZUS APP – try to restart the application to check if the problem persists. 2. Clear App Cache – try to clear browser cache and cookies, as this will help you to fix minor bugs and errors. 3. Uninstall and reinstall the application
+agent: Please do let us know if the issue still persists.
+agent: Hope this helps. Apart from this, Is there anything else we could assist you with?
+user: Alright, I'll try this first.
+user: Hello, I've tried all the step and im still unable to verify
+agent: May I confirm did you check on the junk email if you have received any new verification email there?
+user: Yes, i received the email. However, the link cant be open. It leads to a broken link.
+agent: Understood, we will escalate this issue to the respective team to check in detail.
+agent: We apologies for the inconvenience and hope to serve you better in the future. Apart from this, is there anything else we could assist you with?
+
+user: I need to verify my email first before I can receive voucher right? Since I'm a new user.
+agent: 
+The BUY1FREE1 promo is applicable for the first purchase with us via ZUS App.  
+
+Kindly choose any two handcrafted drinks from the menu, handcrafted would mean drinks that need to be prepared by our barista (not bottled drinks | or pre-made).
+
+At the voucher section, click add voucher and add in the promo code, BUY1FREE1 -->  click the voucher that appears.
+
+The FREE drink will be applied to the lowest base value drink added to the cart, BUT capped at RM 10.50 only
+
+After adding the voucher and then proceed with payment accordingly. 
+
+agent: We will promptly address the issue with our technical team to ensure that it is resolved from their end. In the meantime, you can continue to use the ZUS apps as usual.
+agent: Hope this clarifies. Apart from this, Is there anything else we could assist you with?
+user: Okay, thank you.
+agent: You're welcome.
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊","Customer sentiment: Frustrated  
+Primary Concern: Inability to verify account due to a broken email verification link  
+Identified Problem: A broken link in the verification email preventing account verification  
+Contributing Factors:  
+- Technical issue with the email verification system  
+- Possible miscommunication regarding troubleshooting steps  
+Resolution Offered: Escalation of the issue to the technical team for further investigation  
+Overall Summary: The customer, Prisca, expressed frustration over being unable to verify her account due to a broken link in the verification email. Despite following troubleshooting steps suggested by the agent, the issue persisted. The agent acknowledged the problem and escalated it to the technical team for resolution. The customer was informed that she could still use the app while the issue was being addressed. The interaction ended with the customer feeling acknowledged, but the root cause of the issue remains unresolved.  
+
+Suggested departments for further investigation:  
+- Technical Support Team (to investigate the broken link issue)  
+- Customer Service Management (to review communication and troubleshooting processes)  ",2020
+436440,Feedback / Improvement,Tech,App - Buffering / Lag,"user: I can’t verify my acc via email Channel: whatsapp  Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c37116acf76b0e4d315f9ed4b8727c67cb2d3405d621/66853cfc3e19c100019ed68c
+user: Hi I’m currently can’t verify my email on zus apps
+agent: We sincerely apologize for the inconvenience caused by the issue with our app.
+
+Rest assured, our team is working diligently to resolve the problem and ensure that it doesn't happen again in the future.
+
+Kindly select the option below
+
+user: 1
+agent: Kindly provide us with a clear image/ video recording of the issue.
+
+agent: Atiqah Ismady, can you please enter your email ID?
+
+user: 
+user: I’ve already click send email to verify but no email received
+agent: Please enter a valid email ID
+
+user: nuratiqahismady@gmail.com
+agent: Atiqah Ismady, can you explain your issue briefly?
+
+user: I can’t verify my acc via email
+agent: A Live agent has been connected
+
+user: Ok
+agent: Hi this is Bawani, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: Alright
+agent: Hi Atiqah Ismady, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+
+agent: Hi there, could you please confirm if you have checked your spam folder for the verification email?
+
+user: Yes I have
+user: But I received none
+agent: Could you please send the screen recording of your attempt to obtain the verification email?
+
+agent: Hi, just wanted to check in and see if you're still with me?
+
+agent: Since we have not received a response from you in some time, we will proceed to close this chat. If you require further assistance, please feel free to chat with us here and we will assist you promptly. Thank you and have a pleasant day ahead! 😊
+
+user: Still here
+agent: Could you please send the screen recording of your attempt to obtain the verification email?
+
+agent: We appreciate the screen recording you provided in response to our request.
+
+user: 👍🏻
+agent: We are required to escalate this matter to the technical team and will follow up with you once we have received their feedback. Thank you for your understanding.
+
+agent: Apart from this, anything else we could assist you with?
+
+user: Nothing else
+agent: If you require additional assistance, please feel free to inform us. I will be concluding the chat at this time. Thank you and have a pleasant day! 😊
+
+agent: If you have a minute kindly rate this Live Chat after I end the conversation. I would appreciate your kind feedback on my service today as this will allow me to improve myself to serve you better. 🙂
+
+user: Alright thanks
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: five
+agent: I'm glad.
+Please feel free to reach out to me for any further queries.
+
+When in need just say """"Hi""""
+
+user: Ok
+agent: Hi this is Bawani, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: Alright
+agent: Hi Atiqah Ismady, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+agent: Hi there, could you please confirm if you have checked your spam folder for the verification email?
+user: Yes I have
+user: But I received none
+agent: Could you please send the screen recording of your attempt to obtain the verification email?
+agent: 
+Hi, just wanted to check in and see if you're still with me?     
+
+agent: Since we have not received a response from you in some time, we will proceed to close this chat. If you require further assistance, please feel free to chat with us here and we will assist you promptly. Thank you and have a pleasant day ahead! 😊
+user: Still here
+agent: Could you please send the screen recording of your attempt to obtain the verification email?
+user: View
+agent: We appreciate the screen recording you provided in response to our request.
+user: 👍🏻
+agent: We are required to escalate this matter to the technical team and will follow up with you once we have received their feedback. Thank you for your understanding.
+agent: Apart from this, anything else we could assist you with?
+user: Nothing else
+agent: If you require additional assistance, please feel free to inform us. I will be concluding the chat at this time. Thank you and have a pleasant day! 😊
+agent: If you have a minute kindly rate this Live Chat after I end the conversation. I would appreciate your kind feedback on my service today as this will allow me to improve myself to serve you better. 🙂
+user: Alright thanks","Customer sentiment: Frustrated  
+Primary Concern: Unable to verify email for account access  
+Identified Problem: Verification email not received by the customer  
+Contributing Factors:  
+- System error preventing the email from being sent  
+- Possible miscommunication regarding the verification process  
+Resolution Offered: Escalation of the issue to the technical team for further investigation  
+Overall Summary: The customer, Atiqah Ismady, expressed frustration over not receiving a verification email to access her account on the app. Despite checking her spam folder and confirming her email address, she did not receive the email. The agent requested a screen recording of the issue and escalated the matter to the technical team for resolution. The root cause appears to be a system error preventing the email from being sent. The customer rated the service positively despite the issue.  
+
+Suggested departments for further investigation:  
+- Technical Support Team  
+- IT Department (to investigate email delivery issues)  
+- Customer Service Management (to review communication protocols)",1623
+441144,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Order ID: 24071319184 Ticket Category: Double Payment Charges Issue: User is facing Double Payment Charges  Chat/ Image URL: Not Provided Channel: Mobile App  Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c32214e5be3a530b6d0fcad3a9663b389f6b7e57936687f7ffb32c7515834432745111e06bf20124d4/66923621c723e700011b1077
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: what my order is already change time?
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Please select the language you want to converse in
+
+user: Chinese
+agent: 我可以拿到您的手机号码吗？
+(eg: 601XXXXXXXX)
+
+user: 104686848
+agent: 谢谢您提供的信息。
+
+agent: 你好 Yeoh Zhiyang，今天我怎么可以帮助您？
+
+user: 
+agent: 抱歉，我不明白你的要求。请从菜单中选择。
+
+agent: 你好 Yeoh Zhiyang，今天我怎么可以帮助您？
+
+user: 2
+agent: 很抱歉这次未能满足您的期望。
+
+请选出取消的原因
+
+user: 回去
+agent: 你好 Yeoh Zhiyang，今天我怎么可以帮助您？
+
+user: 1
+agent: 请分享您的订单ID （例如：MY0290-23123126284），以便我们为您提供帮助。
+
+user: 24071319184
+agent: 感谢您的等待。
+请查看订单状态如下：
+
+订单编号： 24071319184
+店铺名称: Pekan Simpang Kuala, Alor Setar
+订购日期： 2024/07/13
+订单状态：Upon checking, we have received your order and it will be prepared accordingly.
+付款方式ZUS Balance
+采购量：6.90
+
+agent: 我是否回答了您的问题？
+
+user: 3
+agent: 你好 Yeoh Zhiyang，今天我怎么可以帮助您？
+
+user: 6
+agent: 了解。
+请您选择相关选项，以便我能更有效地为您提供帮助。
+
+user: 1
+agent: 我们对此错误深表歉意。这种情况很少发生，但有时银行错误会对我们造成影响。您将获得双重支付费用的退款。
+
+请注意，平均退款处理时间可能需要多达14个工作日，具体时间取决于您的银行和支付方式。
+请提供以下详细信息：
+
+订单ID：
+全名：
+IC号码（Maybank用户）：
+银行名称：
+银行账户：
+金额：
+
+agent: 已连接人工客服
+
+user: 
+user: 
+agent: Hi this is Amirah, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: tadi sy letak 4.45 pick up tapi sekara sini tulis 5.30
+agent: Hai Yeoh, selamat tengahari.
+
+agent: Terima kasih kerana memberitahu kami dan kami minta maaf di atas kesulitan yang berlaku.
+
+agent: Boleh kami tahu adakah anda adan ubah waktu untuk mengambil pesanan anda?
+
+agent: Kami sudah maklumkan perkara ini kepada pihak berkenaan untuk periksa lebih lanjut. Sila beri kami masa 1-3 hari untuk kami hubungi anda semula untuk kemas kini status selanjutnya.
+
+agent: Kami akan cuba yang terbaik untuk menghubungi ada semula secepat mungkin.
+
+agent: Sekali lagi kami memohon maaf diatas kesulitan yang berlaku dan memperbaiki perkhidmatan kami pada masa akan datang.
+
+agent: Selain daripada isu ini, ada apa apa lagi kami boleh bantu anda?
+
+agent: Memandangkan kami tidak menerima maklum balas dari anda untuk sekian lama, kami akan mengakhiri perbualan ini. Sekiranya anda memerlukan bantuan lanjut, sila hubungi kami semula dan kami akan membantu anda secepat mungkin.
+
+Terima kasih! 🤗
+
+agent: 根据您的对话，请从1到5的等级评价我们的服务。
+1表示最低，5表示最高。
+
+user: 
+user: 
+agent: Hi this is Amirah, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: tadi sy letak 4.45 pick up tapi sekara sini tulis 5.30
+agent: Hai Yeoh, selamat tengahari.
+agent: Terima kasih kerana memberitahu kami dan kami minta maaf di atas kesulitan yang berlaku.
+agent: Boleh kami tahu adakah anda adan ubah waktu untuk mengambil pesanan anda?
+agent: Kami sudah maklumkan perkara ini kepada pihak berkenaan untuk periksa lebih lanjut. Sila beri kami masa 1-3 hari untuk kami hubungi anda semula untuk kemas kini status selanjutnya.
+agent: Kami akan cuba yang terbaik untuk menghubungi ada semula secepat mungkin.
+agent: Sekali lagi kami memohon maaf diatas kesulitan yang berlaku dan memperbaiki perkhidmatan kami pada masa akan datang.
+
+agent: Selain daripada isu ini, ada apa apa lagi kami boleh bantu anda?
+
+agent: Memandangkan kami tidak menerima maklum balas dari anda untuk sekian lama, kami akan mengakhiri perbualan ini. Sekiranya anda memerlukan bantuan lanjut, sila hubungi kami semula dan kami akan membantu anda secepat mungkin.Terima kasih! 🤗
+","Customer sentiment: Frustrated  
+Primary Concern: Double payment charges on order ID 24071319184  
+Identified Problem: System error leading to double payment charges  
+Contributing Factors:  
+- Miscommunication regarding order pickup time  
+- Potential banking errors affecting payment processing  
+Resolution Offered: Refund for double payment charges, with a processing time of up to 14 business days  
+Overall Summary: The customer expressed frustration over being charged twice for their order (ID 24071319184). The agent acknowledged the issue as a rare occurrence potentially caused by banking errors and assured the customer of a refund. Additionally, there was confusion regarding the pickup time, which was noted as being different from what the customer had set. The agent promised to follow up within 1-3 days for further updates. The root cause of the issue appears to be a combination of system errors and miscommunication.  
+
+Suggested departments for further investigation:  
+- Payment Processing Team  
+- Customer Service Management  
+- IT Support Team for system error analysis  
+- Banking Relations Team for potential banking issues",1764
+437372,Feedback / Improvement,Tech,App - Buffering / Lag,"user: 
+user: hi, app was down when i made purchase this morning. can u update please
+user: i also made purchase via tumbler 
+user: previous rm1.39 based on previous chat is not refunded yet too
+agent: Greetings from ZUS Coffee! This is Nur. We apologize for the delayed response as we are receiving high volume of chats at the moment.
+agent: We are terribly sorry for the negative experience.
+
+agent: Please be inform that we have processed the refund RM1.39 to your ZUS Balance and you may check accordingly from your end.
+agent: Meanwhile for today order, since you have placed through the counter, we will need to proceed with manual refund.
+agent: 
+Kindly provide us with your bank details, so we could process the refund accordingly from our end;Full Name:
+
+IC Number : 
+Bank Name:Bank Account:
+
+
+agent: Upon receiving the above information, our finance team will process the refund within 14 working days excluding weekends and public holidays.
+agent: Kindly reopen this chat if you need further assistance from our end. Please do not hesitate to chat with us here and we will assist you as soon as we can.  Thank you and have a pleasant day ahead! 😊","Customer sentiment: Frustrated  
+Primary Concern: App malfunction during purchase and pending refund  
+Identified Problem: System error leading to app downtime and unresolved refund  
+Contributing Factors:  
+- App downtime during the customer's purchase  
+- Delay in processing the previous refund of RM1.39  
+Resolution Offered: Manual refund process initiated; customer asked to provide bank details for the refund  
+Overall Summary: The customer experienced issues with the app being down during their purchase, which led to frustration. Additionally, they noted that a previous refund of RM1.39 had not been processed. The agent acknowledged the issues and initiated a manual refund process, requesting the customer's bank details to facilitate the refund. The root cause appears to be a combination of system errors and delays in refund processing.  
+
+Suggested departments for further investigation: IT Support (for app issues), Finance Department (for refund processing).",761
+434658,Feedback / Improvement,Tech,App - Buffering / Lag,"user: i couln't login to my account. my phone number 0163849780
+user: 
+agent: Hi this is Khuzairi, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: We apologize for the inconvenience.
+agent: May we know have you tried to do basic troubleshoot like clear cache, uninstall the app and reinstall back , also try to use a different internet connection.
+user: yes
+agent: In that case, we will escalate this issue to the tech team, and we will contact you as soon as possible.
+agent: Rest assured the issue wil be fixed.
+agent: We hope this information is helpful. Apart from this, is there anything else we could assist you with?
+agent: Hi, just wanted to check in and see if you're still with me?
+agent: 
+As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+Thank you and have a pleasant day ahead! 😊
+
+user: 
+user: can this issue be solve? my number 0163849780
+user: still not able to login
+agent: Hi this is Vethiyani, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Good Day to you. Thank you for contacting ZUS Coffee Malaysia.
+agent: Apologies on the inconvenience that caused. 
+
+agent: We will escalate to out technical team and resolve the issue soonest. Please try logging in again at a later time.
+
+agent: We hope this information is helpful. 
+
+user: since this morning have done it few times
+user: how long to wait?
+agent: The technical team is currently working to resolve the issue. We appreciate your patience as the team endeavors to address the issue.
+agent: In the meantime, feel free to make your purchase through a third-party platform.
+agent: Apart from this, is there anything else that I can help  you with?
+agent: 
+As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+Thank you and have a pleasant day ahead! 😊
+","Customer sentiment: Frustrated  
+Primary Concern: Inability to log into the account  
+Identified Problem: Technical issues with the login system  
+Contributing Factors:  
+- Customer has already attempted basic troubleshooting steps (clearing cache, reinstalling the app, changing internet connection)  
+- Lack of clear communication regarding the expected resolution time from the technical team  
+
+Resolution Offered: Escalation to the technical team for resolution; advised to use a third-party platform for purchases in the meantime.  
+Overall Summary: The customer expressed frustration over being unable to log into their account despite multiple attempts and troubleshooting steps. The issue appears to stem from technical problems with the login system. The agent escalated the matter to the technical team but did not provide a clear timeline for resolution, contributing to the customer's frustration. The customer was advised to use a third-party platform for purchases while waiting for the issue to be resolved.  
+
+Suggested Departments for Further Investigation:  
+- Technical Support Team  
+- Customer Service Management  
+- IT Department",1037
+442193,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Order ID: - Ticket Category: Invalid Phone number  Issue: User Phone number [60108077233] is not registered  Chat/ Image URL: Not provided Channel: WhatsApp  Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c37116acf4660e4934559dd1b8727c67cb2d3405d621/66954f9bbcea8800017f2a6c
+user: Hi I cannot log in the zus app
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: en
+agent: Great! May I have your mobile number?
+(eg: 601XXXXXXXX)
+
+user: 60108077233
+agent: Sorry, the phone number you entered appears to be invalid. Please ensure you have entered a valid ZUS Coffee registered contact number.
+(ex: 601XXXXXXXX)
+
+user: 0108077233
+agent: Thank you for providing the details. Our live chat agents are currently unavailable. We will reach out to you as soon as possible during our operating hours:
+
+Monday - Sunday (7 AM - 11 PM)
+
+Thank you for your kind understanding.
+
+agent: Our dedicated live chat agent will assist you during our standard operating hours.
+
+agent: Hi this is ZUS, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Grace, greetings from ZUS Coffee! 
+
+agent: My name is Sheena and I'll be assisting you for today.
+
+agent: I understand that you're having a hard time logging in to the ZUS app, let me help you with that.
+
+agent: Have you tried to restart the app like uninstalling the app and reinstalling it?
+
+agent: Hi Grace, just wanted to check in and see if you're still with me?
+
+agent: As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+Thank you and have a pleasant day ahead! 😊
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: Hi I cannot log in the zus app
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: 4
+agent: I'm glad.
+Please feel free to reach out to me for any further queries.
+
+When in need just say """"Hi""""
+
+user: four
+user: Hi
+agent: Great! May I have your mobile number?
+(eg: 601XXXXXXXX)
+
+agent: Great! May I have your mobile number?
+(eg: 601XXXXXXXX)
+
+user: 0108077233
+agent: Sorry, the phone number you entered appears to be invalid. Please ensure you have entered a valid ZUS Coffee registered contact number.
+(ex: 601XXXXXXXX)
+
+user: 60108077233
+agent: A live agent has been connected
+
+agent: Hi Grace, greetings from ZUS Coffee! 
+
+agent: My name is Sheena and I'll be assisting you for today.
+
+agent: Please give me a moment to check on this matter for you.
+
+user: I have tried installing and uninstalling the app
+user: But it doesn't work
+user: It always ask me to register a new account even though I already have an account
+agent: Did you check if you have good internet connection at your area?
+
+user: Yes. I don't have any problem with any other apps
+agent: Did you install the ZUS MY app?
+
+agent: Have you also tried restarting your phone?
+
+agent: Hi Grace, just wanted to check in and see if you're still with me?
+
+agent: As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+Thank you and have a pleasant day ahead! 😊
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+agent: Hi this is ZUS, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Grace, greetings from ZUS Coffee! 
+agent: My name is Sheena and I'll be assisting you for today.
+agent: I understand that you're having a hard time logging in to the ZUS app, let me help you with that.
+agent: Have you tried to restart the app like uninstalling the app and reinstalling it?
+agent: Hi Grace, just wanted to check in and see if you're still with me?
+agent: As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.Thank you and have a pleasant day ahead! 😊","Customer sentiment: Frustrated  
+Primary Concern: Inability to log in to the ZUS app  
+Identified Problem: The customer's phone number is not recognized as registered in the ZUS Coffee system.  
+Contributing Factors:  
+- The customer provided a phone number that was initially deemed invalid by the system.  
+- The customer has already attempted to uninstall and reinstall the app without success.  
+- The app prompts the customer to register a new account despite having an existing one.  
+Resolution Offered: The agent suggested checking the internet connection, restarting the phone, and reinstalling the app, but no effective resolution was provided.  
+Overall Summary: The customer expressed frustration over being unable to log in to the ZUS app, primarily due to their phone number not being recognized as registered. Despite multiple attempts to resolve the issue, including reinstalling the app, the customer continues to face login problems. The root cause appears to be a system error related to phone number registration.  
+
+Suggested departments for further investigation:  
+- IT/Technical Support Team (to investigate the phone number registration issue)  
+- Customer Service Management (to review the chat process and improve customer support)  
+- App Development Team (to address potential bugs in the app related to user login)",1687
+435608,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Hi I’ve not been able to verify my email.
+user: Even though I received the email for verification and click the link, it doesn’t work
+user: 
+user: This is what I get instead
+agent: Hi this is Buvana, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Jia Lih, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+user: Ok thanks
+agent: We apologize for the delay in responding as we have received many requests. Rest assured, our team is improving their response time to inquiries.
+agent: We are extremely sorry for the unpleasant experience you have encountered with us.
+agent: Hello Jia, I'm extremely sorry to keep you waiting.
+agent: I have escalated this matter to our technical department. Please allow us 24 hours to resolve this matter. Kindly try to use the verification link after 24 hours.
+agent: Kindly reopen this conversation if you need further assistance from our end. Please do not hesitate to chat with us here and we will assist you as soon as we can. Once again we truly apologise for our late response.","Customer sentiment: Frustrated  
+Primary Concern: Inability to verify email despite receiving a verification link.  
+Identified Problem: Technical issue with the email verification link not functioning properly.  
+Contributing Factors:  
+- System error preventing the verification link from working.  
+- High volume of inquiries leading to delayed response times.  
+Resolution Offered: Escalation to the technical department with a promise to resolve the issue within 24 hours.  
+Overall Summary: The customer expressed frustration over being unable to verify their email, despite receiving a verification link that did not work. The agent acknowledged the issue, apologized for the delay, and escalated the matter to the technical department, promising a resolution within 24 hours. The root cause appears to be a technical error with the verification system, compounded by a high volume of customer inquiries.  
+
+Suggested departments for further investigation: Technical Support Team, Customer Service Management.",772
+453472,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Order ID: - Ticket Category: Connect With Live Agent  Issue: I order for the new cham/milk tea series. In the menu it is stated the price is only rm10.9  Chat/ Image URL: Not provided Channel: Mobile App  Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c32840e4af67564e670eded3a9663b3c9c617650956584f1ffb32c7515834432745111e06bf20124d4/66a88e85cd41cb000125563d
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: English
+agent: Great! May I have your mobile number?
+(eg: 601XXXXXXXX)
+
+user: +601114288949
+agent: Thank you for your details.
+
+agent: Hi Eve Evita how can I help you today?
+
+user: 3
+agent: Understood.
+Please select the relevant options so I can assist you more effectively.
+
+user: Talk to agent
+agent: Eve Evita, can you explain your issue briefly?
+
+user: I order for the new cham/milk tea series. In the menu it is stated the price is only rm10.9
+agent: 
+
+user: But when i order it becomes rm12.9
+agent: Hi this is Nur, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Eve Evita.
+
+agent: We apologies for the inconvenience caused.
+
+agent: Please give me a moment to check on this matter Eve Evita
+
+user: Yes please. I ordered 4 drinks, and all the drinks are more expensive than they should be
+agent: Thank you very much for holding, and sorry about that wait!
+
+user: So how?
+agent: May we get the screenshot of your receipt and the menu that you saw of RM10.9 in order for us to escalate to the relevant team?
+
+user: 
+user: 
+user: 
+user: 
+user: I ordered 2 of iced white peach oolong milk tea, 1 iced jasmine cham latte, and 1 iced jasmine milk tea
+agent: Thank you for the info that you provided. 
+
+agent: May we get the screenshot of your receipt?
+
+user: If i go out from this chat, will i need to redo?
+agent: No, you may directly chat.
+
+user: 
+user: 
+agent: Thank you for the info that you provided. 
+
+user: Then how?
+agent: We'll escalate this issue to our technical team to fix this issue. And we'll revert back to you once we get the reply from the relevant team.
+
+agent: We apologies for the inconvenience caused.
+
+user: How long does it take?
+user: And also how do i follow up on this?
+user: And also when can i get the refund?
+agent: Kindly be inform, it will takes up to 3-5 working days. We will revert back to you through this chat once we get the reply from the tech.
+
+agent: Hope this clarify.
+
+user: But you will refund the amount to me, right?
+user: Since i pay more expensive that i should be
+user: And i don't want it to be refunded as vouchers. I want to get the refund in money
+agent: We will have to check first, and we will get back to you once we get the reply regarding this matter,
+
+agent: Hope this clarify your concern.
+
+user: Give me the ID for this issue
+agent: Apart from that, is there anything else that I can assist you?
+
+user: So i can directly give the ID without explaining all over again when i want to follow up on this issue
+agent: Apologies, we do not have case ID. You may reopen back this chat as all the agent will be able to see the previous chat.
+
+user: Alright. Pls get back to me asap, thanks
+agent: We apologies for the inconvenience caused.
+
+agent: You're welcome.
+
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: ⭐️
+agent: We're sorry for any inconvenience you experienced. Your feedback is important to us, and we're always striving to improve. 
+
+Please let us know how we can serve you better. Thank you for helping us improve!
+
+user: But when i order it becomes rm12.9
+agent: Hi this is Nur, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Eve Evita.
+agent: We apologies for the inconvenience caused.
+agent: Please give me a moment to check on this matter Eve Evita
+user: Yes please. I ordered 4 drinks, and all the drinks are more expensive than they should be
+agent: Thank you very much for holding, and sorry about that wait!
+user: So how?
+agent: May we get the screenshot of your receipt and the menu that you saw of RM10.9 in order for us to escalate to the relevant team?
+user: 
+user: 
+user: 
+user: 
+user: I ordered 2 of iced white peach oolong milk tea, 1 iced jasmine cham latte, and 1 iced jasmine milk tea
+agent: Thank you for the info that you provided. 
+agent: May we get the screenshot of your receipt?
+user: If i go out from this chat, will i need to redo?
+agent: No, you may directly chat.
+user: 
+user: 
+agent: Thank you for the info that you provided. 
+user: Then how?
+agent: We'll escalate this issue to our technical team to fix this issue. And we'll revert back to you once we get the reply from the relevant team.
+
+agent: We apologies for the inconvenience caused.
+user: How long does it take?
+user: And also how do i follow up on this?
+user: And also when can i get the refund?
+agent: Kindly be inform, it will takes up to 3-5 working days. We will revert back to you through this chat once we get the reply from the tech.
+agent: Hope this clarify.
+user: But you will refund the amount to me, right?
+user: Since i pay more expensive that i should be
+user: And i don't want it to be refunded as vouchers. I want to get the refund in money
+agent: We will have to check first, and we will get back to you once we get the reply regarding this matter,
+agent: Hope this clarify your concern.
+agent: Apart from that, is there anything else that I can assist you?
+user: Give me the ID for this issue
+user: So i can directly give the ID without explaining all over again when i want to follow up on this issue
+agent: Apologies, we do not have case ID. You may reopen back this chat as all the agent will be able to see the previous chat.
+user: Alright. Pls get back to me asap, thanks
+agent: We apologies for the inconvenience caused.
+agent: You're welcome.
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊
+user: Order ID: - Ticket Category: Connect With Live Agent  Issue: Can i get the updates for my inquiry?  Chat/ Image URL: Not provided Channel: Mobile App  Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c32840e4af67564e670eded3a9663b3c9c617650956584f1ffb32c7515834432745111e06bf20124d4/66b2ff7efb60d50001127b38
+user: Hi, can i get the updates from my inquiry?
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: English
+agent: Great! May I have your mobile number?
+(eg: 601XXXXXXXX)
+
+user: 601114288949
+agent: Thank you for your details.
+
+agent: Hi Eve Evita how can I help you today?
+
+user: Talk to agent
+agent: Eve Evita, can you explain your issue briefly?
+
+user: Can i get the updates for my inquiry?
+agent: Hi this is ZUS, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Eve Evita, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+
+agent: Hi Eve, greetings from ZUS Coffee! 
+
+agent: My name is Sheila and I'll be assisting you today.
+
+agent: Could you clarify further on the issue for our further checking?
+
+agent: Hi, just wanted to check in and see if you're still with me?
+
+user: Hi
+user: Yes
+user: Are u able to read the previous message?
+agent: Please give me a moment to check on this matter.
+
+user: Ok
+agent: Thank you for waiting and I'm sorry for the long waiting.
+
+agent: Upon checking, we have escalated this issue to our technical team and we're still waiting for our technical team's response to your issue.
+
+agent: Rest assured we'll revert back to you once we have an update from our technical team via your email address ev.evitaeve@gmail.com.
+
+agent: We hope this information is helpful. Apart from this, is there anything else we could assist you with?
+
+user: Okay. May i know how long will get back to me? Because previously you mentioned 3-5 days
+agent: The technical team will revert back to us with an update usually within 3-5 working days.
+
+user: Ok
+agent: Not to worry! We'll request to expedite this issue to our technical team regarding this issue.
+
+agent: We hope this information is helpful. Apart from this, is there anything else we could assist you with?
+
+agent: Hi, just wanted to check in and see if you're still with me?
+
+agent: As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+agent: Thank you and have a pleasant day ahead! 😊
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+agent: Hi this is ZUS, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Eve Evita, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+agent: Hi Eve, greetings from ZUS Coffee! 
+agent: My name is Sheila and I'll be assisting you today.
+agent: Could you clarify further on the issue for our further checking?
+
+agent: Hi, just wanted to check in and see if you're still with me?
+user: Hi
+user: Yes
+user: Are u able to read the previous message?
+agent: Please give me a moment to check on this matter.
+user: Ok
+agent: Thank you for waiting and I'm sorry for the long waiting.
+agent: Upon checking, we have escalated this issue to our technical team and we're still waiting for our technical team's response to your issue.
+agent: Rest assured we'll revert back to you once we have an update from our technical team via your email address ev.evitaeve@gmail.com.
+agent: We hope this information is helpful. Apart from this, is there anything else we could assist you with?
+user: Okay. May i know how long will get back to me? Because previously you mentioned 3-5 days
+agent: The technical team will revert back to us with an update usually within 3-5 working days.
+user: Ok
+agent: Not to worry! We'll request to expedite this issue to our technical team regarding this issue.
+agent: We hope this information is helpful. Apart from this, is there anything else we could assist you with?
+agent: Hi, just wanted to check in and see if you're still with me?
+agent: As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+agent: Thank you and have a pleasant day ahead! 😊","Customer sentiment: Frustrated  
+Primary Concern: Incorrect pricing for ordered drinks  
+Identified Problem: Discrepancy between advertised price and charged price  
+Contributing Factors:  
+- Lack of clarity in the pricing displayed on the mobile app  
+- Possible system error or miscommunication regarding menu updates  
+Resolution Offered: Escalation of the issue to the technical team for review and potential refund  
+Overall Summary: The customer, Eve Evita, raised a concern regarding being charged RM12.9 for drinks that were advertised at RM10.9. The agent acknowledged the issue and requested a screenshot of the receipt for further investigation. The customer expressed frustration over the pricing discrepancy and the lack of a case ID for follow-up. The agent assured the customer that the issue would be escalated to the technical team and that they would receive a response within 3-5 working days. The root cause appears to be a miscommunication or error in the pricing displayed in the mobile app.  
+
+Suggested departments for further investigation:  
+- Technical Support Team (to investigate the pricing discrepancy)  
+- Customer Service Management (to address customer follow-up processes and communication)  
+- Marketing Team (to ensure accurate representation of menu pricing)",3278
+436860,Feedback / Improvement,Tech,App - Buffering / Lag,"user: +60128240046
+user: Already give u
+user: 
+agent: Hi this is Khuzairi, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: Dade: 2024-07-24070312006
+user: Just now asking me provide u order number right
+user: 24070312006
+user: 2024-07-03 11:42.15am
+user: Register number is 0128240046
+agent: We apologize for the inconvenience
+agent: You can view your referral list on the ZUS App.
+user: 
+user: No in my list
+agent: As per checking, we only detected only two people are using your referral code.
+agent: We hope this information is helpful. Apart from this, is there anything else we could assist you with?
+user: Ok thx
+user: How to check my friend use my referral code register?
+user: Why don make it When ppl use our referral code register we can receive notify sms
+agent: We sincerely apologize for any inconvenience caused. We appreciate your feedback and will promptly relay it to the appropriate department in order to enhance our services in the future.
+agent: We hope this information is helpful. Apart from this, is there anything else we could assist you with?
+user: ok thx
+agent: You're welcome.
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊","Customer sentiment: Frustrated  
+Primary Concern: Lack of notification when friends use the referral code  
+Identified Problem: Absence of a notification system for referral code usage  
+Contributing Factors:  
+- Lack of transparency in the referral program  
+- Insufficient communication regarding how to track referral usage  
+Resolution Offered: Feedback will be relayed to the appropriate department for service enhancement  
+Overall Summary: The customer expressed frustration over not receiving notifications when friends use their referral code for registration. The agent confirmed that only two people were detected using the referral code but did not provide a solution for tracking this usage. The root cause appears to be the absence of a notification system for referral code usage, leading to a lack of transparency and communication regarding the referral program. The agent offered to relay the customer's feedback for future improvements.",824
+435839,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Hi I've tried the ways you mentioned, even switched devices and Internet. I get the verification emails, but i can never open them...it says the same as the screenshot.
+agent: Hi this is Anis Insyirah, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: May I have the email address for further checking please?
+user: chiakliaubi@gmail.com
+agent: Thank you for the email. One moment please.
+agent: Hi Sammy, we will raise this issue to our tech team for further review.
+agent: May I know what phone model are you using?
+user: Samsung A05s I think
+user: Yeah Samsung Galaxy A05s
+agent: Thank you for the details. We will reach out to you here once we have an update from our tech team.
+agent: Meanwhile you may also retry the process a few times.
+agent: Apart from this, is there anything else that I can help you with on this chat?
+user: can I still buy drinks even though my account isn't verified?
+agent: May I confirm if you are able to login using your mobile number?
+user: yes
+agent: In this case there should be no issue to purchase as long as you have the access to your account. If you are unable to, kindly reach out to us 😊
+user: okay thank you Anis
+agent: It is my pleasure!
+agent: Is there anything else that I can help you with on this chat?
+agent: 
+As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+Thank you and have a pleasant day ahead! 😊
+","Customer sentiment: Frustrated  
+Primary Concern: Inability to open verification emails  
+Identified Problem: Technical issue with email verification process  
+Contributing Factors:  
+- Customer has tried multiple devices and internet connections without success.  
+- The specific error message received when attempting to open the verification emails is not detailed, indicating a potential system error.  
+Resolution Offered: The issue will be escalated to the tech team for further review, and the customer was advised to retry the process.  
+Overall Summary: The customer expressed frustration over being unable to open verification emails despite trying different devices and internet connections. The agent acknowledged the issue and escalated it to the tech team for further investigation. The customer was informed that they could still make purchases using their account, as they could log in with their mobile number. The root cause appears to be a technical issue with the email verification process.  
+
+Suggested departments for further investigation: Technical Support Team, IT Department.",897
+444202,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Order ID: 24071840595 Ticket Category: Payment Error / Failure Issue: User is facing Payment Error / Failure  Chat/ Image URL: Not Provided Channel: Mobile App  Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c33653f0a928500d3254c2d3a9663b399a6d75509f6181f7ffb32c7515834432745111e06bf20124d4/669a460ac723e70001345e7d
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: English
+agent: Great! May I have your mobile number?
+(eg: 601XXXXXXXX)
+
+user: 60129274996
+agent: Thank you for your details.
+
+agent: Hi Nabilah Arbaei how can I help you today?
+
+user: 6
+agent: Understood.
+Please select the relevant options so I can assist you more effectively.
+
+user: Payment Error / Failure
+agent: Please share your order ID (eg: MY0290-23123126284) so we can help you.
+
+user: 3
+agent: Apologies, it appears that the order ID you entered is incorrect. Could you please double-check it and enter it again?
+
+user: 24071840595
+agent: Hello Nabilah Arbaei. We have checked your payment status, and it shows that your payment has been refunded.
+
+agent: Did I answer your question?
+
+user: Yes, but i eventually got my order delivered
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Did I answer your question?
+
+user: No
+agent: Apologies, please wait while I connect you with an agent to serve you better
+
+agent: A live agent has been connected
+
+user: Tq
+agent: Hi this is Pavitra, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: Hi. Yesterday my order was refunded in view of no rider available
+user: But eventually ive received my order
+user: Payment however already refunded to my zus account
+agent: We sincerely apologize for any inconvenience caused. Please hold on while we check on this.
+
+agent: Thank you for waiting.
+
+agent: We sincerely appreciate you for taking the time to inform us about this matter.
+
+agent: In this case we will inform the respective team to deduct the amount RM11.90 once again from your ZUS Balance. Is that alright?
+
+agent: Hi, just wanted to check in and see if you're still with me?
+
+agent: As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+Thank you and have a pleasant day ahead! 😊
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: Yes please
+agent: Please select the language you want to converse in
+
+agent: We've not heard from you for a while and we assume you've stepped away. If you want to restart the conversation, please type """"Hi"""".
+
+user: Tq
+agent: Hi this is Pavitra, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: Hi. Yesterday my order was refunded in view of no rider available
+user: But eventually ive received my order
+user: Payment however already refunded to my zus account
+agent: We sincerely apologize for any inconvenience caused. Please hold on while we check on this.
+agent: Thank you for waiting.
+agent: We sincerely appreciate you for taking the time to inform us about this matter.
+agent: In this case we will inform the respective team to deduct the amount RM11.90 once again from your ZUS Balance. Is that alright?
+agent: Hi, just wanted to check in and see if you're still with me?
+agent: 
+As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+Thank you and have a pleasant day ahead! 😊
+","Customer sentiment: Frustrated  
+Primary Concern: Payment error due to a refund despite receiving the order  
+Identified Problem: Miscommunication regarding the payment status and order delivery  
+Contributing Factors:  
+- The order was initially refunded due to the unavailability of a rider.  
+- The customer received the order after the refund was processed, leading to confusion about the payment status.  
+Resolution Offered: The agent proposed to deduct the refunded amount (RM11.90) from the customer's ZUS balance.  
+Overall Summary: The customer experienced a payment error where their order was refunded due to no rider availability, but they eventually received the order. This led to confusion as the payment was already refunded to their ZUS account. The agent acknowledged the issue and proposed a resolution to deduct the amount from the customer's balance. The root cause of the issue appears to be a miscommunication regarding the order's delivery status and the payment process.  
+
+Suggested departments for further investigation:  
+- Customer Service Team (to address communication issues)  
+- Payment Processing Team (to review refund and payment handling)  
+- Logistics Team (to improve rider availability and order fulfillment processes)",1497
+434819,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Hello
+user: How to change to another credit card
+user: I dont want to save the credit card
+agent: Hi Nur Aqilah, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+agent: Hi this is Nuraini, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Kindly be informed that we do not store your credit card details. 
+
+agent: Can you confirm whether your credit card details are being automatically filled in when you are about to make the payment?
+agent: As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.","Customer sentiment: Frustrated  
+Primary Concern: Customer wants to change to another credit card without saving the details.  
+Identified Problem: Miscommunication regarding the storage of credit card information.  
+Contributing Factors:  
+- Customer's misunderstanding of the payment process and credit card storage policy.  
+- Lack of clarity in the agent's responses regarding the automatic filling of credit card details.  
+Resolution Offered: The agent informed the customer that credit card details are not stored.  
+Overall Summary: The customer initiated a request to change their credit card for payments without saving the information. The main issue stemmed from a misunderstanding about whether credit card details were being stored or automatically filled during payment. The agent clarified that the company does not store credit card information, but the conversation ended without fully addressing the customer's concerns, leading to potential frustration.  
+
+Suggested departments for further investigation: Customer Service Training, Payment Processing Team, and User Experience Team.",699
+434771,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Hi I can’t log in into my app
+user: 
+user: After I type my phone number and then click sms or WhatsApp it appeared like this
+agent: Hi this is Buvana, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: Okayy
+agent: Greetings from ZUS Coffee!
+agent: We are extremely sorry for the unpleasant experience you have encountered with us.
+agent: Please be advised to do basic troubleshooting first as below: 1. Refresh ZUS APP – Try to restart the application to check if the problem persists. 2. Clear App Cache – Try to clear browser cache and cookies, as this will help you to fix minor bugs and errors. 3. Uninstall and reinstall the application
+user: Hi I’ve try all methods but still not working :(
+agent: Kindly provide your email address and telephone number.
+user: Lmntrixx78@gmail.com
+user: 601155877079
+agent: Thank you for providing the above information.
+user: 😿
+agent: Hello Leong, I have escaled your issue to the technical team. The will reach out to you within 48 hours.
+agent:  Apart from this, is there anything else we could assist you with?
+user: No, thankyou very much!
+user: how’d they reach out to me
+user: by using..?
+agent: By email.
+user: ok
+user: Thankyou very much
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊","Customer sentiment: Frustrated  
+Primary Concern: Inability to log into the app  
+Identified Problem: Technical issue with the app preventing login  
+Contributing Factors:  
+- User has attempted basic troubleshooting steps without success  
+- Potential underlying technical issues that require escalation to the technical team  
+Resolution Offered: Issue escalated to the technical team, who will reach out within 48 hours  
+Overall Summary: The customer expressed frustration over being unable to log into the app despite following troubleshooting steps. The agent acknowledged the issue and escalated it to the technical team for further investigation, promising a follow-up within 48 hours. The root cause appears to be a technical issue with the app that is beyond the customer's control.  
+
+Suggested Departments for Further Investigation:  
+- Technical Support Team  
+- App Development Team  ",843
+435944,Feedback / Improvement,Tech,App - Buffering / Lag,"user: Why was I not notified that my order was cancelled due to no rider?
+agent: Hi Aden. My name is Khuzairi and I will be assisting you today.
+agent: Hi this is Khuzairi, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: We apologize for the inconvenience.
+agent: We regret to inform you that your order had to be canceled due to the unavailability of riders in your area. Your refund has been processed through ZUS Balance.
+agent: To ensure a smooth purchase experience, we would advise you to opt for self-pickup for your next order, as there is currently no available rider in your area.
+agent: We hope this information is helpful. Apart from this, is there anything else we could assist you with?
+user: Hi Khuzairi. Thanks for the reply. If I may suggest for better app user experience, maybe Zus can rectify their system to let it be an auto notification if an order has been cancelled. Would save time!
+agent: We sincerely apologize for any inconvenience caused. We appreciate your feedback and will promptly relay it to the appropriate department in order to enhance our services in the future.
+agent: Apart from this, is there anything else we could assist you with?
+user: Thats all. Thanks! Have a good day
+agent: You're welcome.
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊","Customer sentiment: Frustrated  
+Primary Concern: Lack of notification regarding order cancellation  
+Identified Problem: Unavailability of riders leading to order cancellation without prior notification  
+Contributing Factors:  
+- System failure to notify customers of order cancellations  
+- Lack of proactive communication regarding rider availability  
+Resolution Offered: Refund processed through ZUS Balance; suggestion to opt for self-pickup for future orders  
+Overall Summary: The customer expressed frustration over not being notified about their order cancellation due to the unavailability of riders. The agent explained the situation and processed a refund, while also suggesting self-pickup for future orders. The root cause identified was a system failure to provide automatic notifications for cancellations, which the customer suggested could improve the app's user experience. The agent acknowledged the feedback and promised to relay it to the appropriate department.",820

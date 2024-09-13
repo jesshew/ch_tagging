@@ -1,0 +1,1121 @@
+ticket.id,gt_category_1,gt_department,gt_category_2,text,summary,token_count
+437128,Cancellation,Tech,Cancellation - Long Waiting Time,user: Order is placed more than 15mins Order ID: 24070500251 Outlet Name: Bandar Seri Putra Order Status: Upon checking, we have received your order and it will be delivered accordingly. Payment Method: ZUS Balance Purchase Amount: 21.80 Channel: whatsapp Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c37116acf36a0c4e365299d3b8727c67cb2d3405d621/668731b11d711d000128efed
+user: Hi
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: en
+agent: Thank you for your details.
+
+agent: Hi Leo Leopold how can I help you today?
+
+user: 3
+agent: Understood.
+Please select the relevant options so I can assist you more effectively.
+
+user: 9
+agent: Hi Leo Leopold how can I help you today?
+
+user: 1
+agent: Please share your order ID (eg: MY0290-23123126284) so we can help you.
+
+user: 24070500251
+agent: Thank you for waiting.
+Your order is currently being prepared by our barista. Please view the status of your order below:
+
+Order ID: 24070500251
+Outlet Name: Bandar Seri Putra
+Order Date: 2024/07/05
+Order Status: Upon checking, we have received your order and it will be delivered accordingly.
+Payment Method: ZUS Balance
+Purchase Amount: 21.80
+
+agent: Did I answer your question?
+
+user: No
+agent: Apologies, please wait while I connect you with an agent to serve you better
+
+agent: A Live agent has been connected
+
+user: 
+user: There no rider found for my order
+agent: Hi this is Vethiyani, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Leo Leopold, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+
+agent: Good Day to you. Thank you for contacting ZUS Coffee Malaysia.
+
+agent: Please give me a moment to check on this matter Leo Leopold
+
+user: Sure
+agent: Sorry for keeping you wait. We have escalate to our technical team and resolve the issue soonest.
+
+agent: The technical team is currently working to resolve the issue. We appreciate your patience as the team endeavors to address the issue.
+
+user: Ok
+agent: Could I please proceed with issuing a refund to your ZUS balance for your current order?
+
+user: Ok sure
+user: Do I need to order again or I’m unable to make an order to my current location?
+agent: Unfortunately yes, you will need to place a new order at the same address as this is technical issue on our end.
+
+user: Alright noted with thanks
+agent: We have cancelled the order as requested and refunded via ZUS balance. The amount will reflect into your ZUS balance within 24 hours
+
+agent: Apologies on the inconvenience that caused.
+
+user: Alright thanks
+agent: You're most welcome. 😊
+
+agent: Apart from this, is there anything else that I can help you with?
+
+user: No that would be all thanks
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊
+
+agent: If you have a minute kindly rate this Live Chat after I end the conversation. I would appreciate your kind feedback on my service today as this will allow me to improve myself to serve you better. 🙂
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: five
+agent: I'm glad.
+Please feel free to reach out to me for any further queries.
+
+When in need just say "Hi"
+
+user: 
+agent: Hi this is Vethiyani, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Leo Leopold, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+agent: Good Day to you. Thank you for contacting ZUS Coffee Malaysia.
+agent: Please give me a moment to check on this matter Leo Leopold
+user: Sure
+agent: Sorry for keeping you wait. We have escalate to our technical team and resolve the issue soonest.
+agent: The technical team is currently working to resolve the issue. We appreciate your patience as the team endeavors to address the issue.
+
+user: Ok
+agent: Could I please proceed with issuing a refund to your ZUS balance for your current order?
+user: Ok sure
+user: Do I need to order again or I’m unable to make an order to my current location?
+agent: Unfortunately yes, you will need to place a new order at the same address as this is technical issue on our end.
+user: Alright noted with thanks
+agent: We have cancelled the order as requested and refunded via ZUS balance. The amount will reflect into your ZUS balance within 24 hours
+
+agent: Apologies on the inconvenience that caused. 
+
+user: Alright thanks
+agent: You're most welcome. 😊
+
+agent: Apart from this, is there anything else that I can help you with?
+user: No that would be all thanks
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊
+agent: If you have a minute kindly rate this Live Chat after I end the conversation. I would appreciate your kind feedback on my service today as this will allow me to improve myself to serve you better. 🙂,Primary Concern: Delay in order delivery and absence of a rider for the customer's order.
+
+Identified Problem: The customer’s order was not delivered due to a technical issue on the coffee chain's end, resulting in no rider being assigned.
+
+Contributing Factors:
+- Technical issues within the order processing system.
+- Lack of timely communication regarding the status of the order.
+
+Customer sentiment: Initially frustrated due to the delay, but became more understanding and appreciative after receiving assistance and a refund.
+
+Resolution Offered: The agent issued a refund to the customer's ZUS balance and informed them that they would need to place a new order due to the technical issue.
+
+Potential Relevant Departments/Persons:
+- Technical Support Team (to investigate and resolve the technical issues)
+- Customer Service Management (to review the handling of the situation and improve communication protocols),1658
+442549,Cancellation,Grab,Cancellation - Long Waiting Time,user: Order ID: 24071618753 Order Status: Upon checking, the outlet is already preparing your order. If in within 3 attempts we are unable to find you a rider ( 3 attempts in within 30 mins ) the system will auto refund back to your account. Payment Method: ZUS Balance Ticket Category: Cancel Order Issue: Rider not available (Waiting time exceeding 15 mins) Chat/ Image URL: Not provided Channel: Mobile App Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c33651ebf2245b0774139ed3a9663b3a9a617153946781fdffb32c7515834432745111e06bf20124d4/669625e292558d00012b1b35
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: English
+agent: Great! May I have your mobile number?
+(eg: 601XXXXXXXX)
+
+user: 60184747097
+agent: Thank you for your details.
+
+agent: Hi fatin nadhirah how can I help you today?
+
+user: Why did my order didnt arrived?
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Hi fatin nadhirah how can I help you today?
+
+user: 1
+agent: Please share your order ID (eg: MY0290-23123126284) so we can help you.
+
+user: 24071618753
+agent: Thank you for waiting.
+Your order is currently being prepared by our barista. Please view the status of your order below:
+
+Order ID: 24071618753
+Outlet Name: Parit Raja
+Order Date: 2024/07/16
+Order Status: Our baristas are preparing your coffee
+Payment Method: ZUS Balance
+Purchase Amount: 39.60
+
+user: When will
+agent: Did I answer your question?
+
+agent: Apologies, it appears that the order ID you entered is incorrect. Could you please double-check it and enter it again?
+
+user: When will
+agent: Apologies, it appears that the order ID you entered is incorrect. Could you please double-check it and enter it again?
+
+user: When will this order arrived? If there is no rider, then i would like to cancel my order.
+agent: We apologize for not meeting your expectations on this occasion.
+
+Please select the reason for cancellation
+
+user: Rider not available
+agent: Kindly provide us with your Order ID (eg: MY0290-23123126284) for further assistance.
+
+user: This id the order id: 24071618753
+agent: Apologies, it appears that the order ID you entered is incorrect. Could you please double-check it and enter it again?
+
+user: 24071618753, this is the id copy paste directly from the zus app
+agent: Apologies, it appears that the order ID you entered is incorrect. Could you please double-check it and enter it again?
+
+user: 
+agent: Hi fatin nadhirah how can I help you today?
+
+user: Aaaaahhhh
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Hi fatin nadhirah how can I help you today?
+
+user: u make me angry la zus
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Hi fatin nadhirah how can I help you today?
+
+user: 3
+agent: Understood.
+Please select the relevant options so I can assist you more effectively.
+
+user: Go Back
+agent: Hi fatin nadhirah how can I help you today?
+
+user: 2
+agent: We apologize for not meeting your expectations on this occasion.
+
+Please select the reason for cancellation
+
+user: Rider not available
+agent: Kindly provide us with your Order ID (eg: MY0290-23123126284) for further assistance.
+
+user: MY0290-24071618753
+agent: Upon checking, the outlet has not started preparing your order because there is no rider assigned at the moment. If we are unable to find a rider within 3 attempts (within 30 minutes), the system will automatically process the refund to your ZUS Balance.
+
+agent: Did I answer your question?
+
+user: its been more than 30 minutes
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Did I answer your question?
+
+user: No
+agent: Apologies, please wait while I connect you with an agent to serve you better
+
+agent: A live agent has been connected
+
+agent: Hi, good day to you! This is Atieqah Asma.
+
+agent: I’m sorry about your poor experience with your purchase.
+
+agent: I'm checking on the system and will get back to you the soonest possible. 
+
+user: Nope, i wanna cancel my order
+user: im going back from my office already
+user: its took very long time to get a rider
+agent: I’m sorry to keep you waiting.
+
+agent: Upon checking, the rider didn't pick up since 1:48pm.
+
+agent: Rest assured, we will highlight this matter to the relevant department for necessary action to be taken.
+
+agent: We have processed the refund to your ZUS Balance and you may check accordingly from your end by going to ZUS App > Account > Check the balance.
+
+agent: If the refund is not reflected, kindly re-login to the ZUS App.
+
+agent: Once again, we're extremely sorry for the unpleasant experience. 
+
+agent: Hope this helps. Before I end the conversation, is there anything else I can help you with?
+
+user: nothing more. Thank you too
+agent: Most welcome!
+
+agent: We’ll close this chat here and if you have any questions or would like to revisit this issue, please revert and our agent will assist you accordingly.
+
+Thank you and have a pleasant day ahead! 😊
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+agent: Hi, good day to you! This is Atieqah Asma.
+agent: I’m sorry about your poor experience with your purchase.
+agent: I'm checking on the system and will get back to you the soonest possible. 
+user: Nope, i wanna cancel my order
+user: im going back from my office already
+user: its took very long time to get a rider
+agent: I’m sorry to keep you waiting.
+agent: Upon checking, the rider didn't pick up since 1:48pm.
+agent: Rest assured, we will highlight this matter to the relevant department for necessary action to be taken.
+agent: We have processed the refund to your ZUS Balance and you may check accordingly from your end by going to ZUS App > Account > Check the balance.
+agent: If the refund is not reflected, kindly re-login to the ZUS App.
+agent: Once again, we're extremely sorry for the unpleasant experience. 
+agent: Hope this helps. Before I end the conversation, is there anything else I can help you with?
+user: nothing more. Thank you too
+agent: Most welcome!
+agent: We’ll close this chat here and if you have any questions or would like to revisit this issue, please revert and our agent will assist you accordingly.Thank you and have a pleasant day ahead! 😊,Primary Concern: Delay in order delivery and unavailability of a rider leading to cancellation request.
+
+Identified Problem: The customer’s order was not delivered due to the unavailability of a rider, resulting in a waiting time exceeding 30 minutes.
+
+Contributing Factors:
+- The system's failure to assign a rider in a timely manner.
+- Repeated miscommunication between the customer and the agent regarding the order ID and status.
+
+Customer sentiment: Frustrated and angry due to the prolonged wait and lack of effective communication.
+
+Resolution Offered: The agent processed a refund to the customer's ZUS Balance and assured that the issue would be highlighted to the relevant department for further action.
+
+Potential Relevant Departments/Persons:
+- Delivery Operations Department (to address rider assignment issues)
+- Customer Service Management (to improve communication protocols and training),1976
+452452,Cancellation,Grab,Cancellation - Long Waiting Time,user: Order ID: 24072802307 Order Status: Upon checking, the outlet is already preparing your order. If in within 3 attempts we are unable to find you a rider ( 3 attempts in within 30 mins ) the system will auto refund back to your account. Payment Method: E-Wallet Pay Ticket Category: Cancel Order Issue: Extended waiting period Chat/ Image URL: Not provided Channel: Mobile App Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c37156f1af365a046b1f9ed3a9663b3a936c7053906984f6ffb32c7515834432745111e06bf20124d4/66a5a39d15183f00011be557
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: English
+agent: Great! May I have your mobile number?
+(eg: 601XXXXXXXX)
+
+user: 0197540305
+agent: Thank you for your details.
+
+agent: Hi shuhadah jafri how can I help you today?
+
+user: 2
+agent: We apologize for not meeting your expectations on this occasion.
+
+Please select the reason for cancellation
+
+user: Extended waiting period
+agent: Kindly provide us with your Order ID (eg: MY0290-23123126284) for further assistance.
+
+user: 24072802307
+agent: Upon checking, the outlet has not started preparing your order because there is no rider assigned at the moment. If we are unable to find a rider within 3 attempts (within 30 minutes), the system will automatically process the refund to your ZUS Balance.
+
+agent: Did I answer your question?
+
+user: Yes
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: ⭐️
+agent: We're sorry for any inconvenience you experienced. Your feedback is important to us, and we're always striving to improve. 
+
+Please let us know how we can serve you better. Thank you for helping us improve!
+
+user: i want to cancel my order
+agent: I'm glad.
+Please feel free to reach out to me for any further queries.
+
+When in need just say "Hi"
+
+user: it's been almost 50 minutes
+agent: Hi shuhadah jafri how can I help you today?
+
+user: 3
+agent: Understood.
+Please select the relevant options so I can assist you more effectively.
+
+user: 2
+agent: We're sorry for the wrong item(s) in your order.
+
+We'll exercise more care when preparing and packing your order in the future.
+
+Tell us which of the issues below you're facing:
+
+user: 3
+agent: Understood.
+Please select the relevant options so I can assist you more effectively.
+
+user: cancel my order
+agent: We apologize for not meeting your expectations on this occasion.
+
+Please select the reason for cancellation
+
+user: Extended waiting period
+agent: Kindly provide us with your Order ID (eg: MY0290-23123126284) for further assistance.
+
+user: 24072802307
+agent: Upon checking, the outlet has not started preparing your order because there is no rider assigned at the moment. If we are unable to find a rider within 3 attempts (within 30 minutes), the system will automatically process the refund to your ZUS Balance.
+
+agent: Did I answer your question?
+
+user: No
+agent: Apologies, please wait while I connect you with an agent to serve you better
+
+agent: 
+
+user: almost 50 minutes waiting, i want to cancel my order
+user: hi, may i cancel
+agent: Hi this is Atieqah Asma, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: alright
+agent: Hi Shuhadah.
+
+agent: Thank you for contacting ZUS Coffee.
+
+agent: My name is Hana and I'll be assisting you today.
+
+user: hi hana
+agent: We sincerely apologize for the inconvenience caused by the slow order preparation. We understand how frustrating this must be for you, and we want to assure you that we are working to make things right.
+
+agent: Please give me a few minutes to check on this.
+
+user: please check on this matter asap and cancel
+user: hi
+user: please respond to me asap
+user: i need to cancel my order
+agent: We are sorry to keep you waiting.
+
+agent: May we offer you a refund to your ZUS Balance, as it will be immediate?
+
+user: okay sure
+user: that would be nice
+user: why is it stated that order delivered?
+user: do u have any proof my order delivered?
+agent: You may check the status again.
+
+agent: We have refunded your to your ZUS Balance.
+
+agent: Once again, we are so sorry you experienced that. We strive to provide a much better experience than what you’ve had today. 
+
+agent: Is there anything else I can help you with?
+
+user: alright
+user: refund received
+user: thank you so much for your help
+user: have a nice day
+agent: You are welcome.
+
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: almost 50 minutes waiting, i want to cancel my order
+user: hi, may i cancel
+agent: Hi this is Atieqah Asma, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: alright
+agent: Hi Shuhadah.
+agent: Thank you for contacting ZUS Coffee.
+agent: My name is Hana and I'll be assisting you today.
+
+user: hi hana
+agent: We sincerely apologize for the inconvenience caused by the slow order preparation. We understand how frustrating this must be for you, and we want to assure you that we are working to make things right.
+agent: Please give me a few minutes to check on this.
+user: please check on this matter asap and cancel
+user: hi
+user: please respond to me asap
+user: i need to cancel my order
+agent: We are sorry to keep you waiting.
+agent: May we offer you a refund to your ZUS Balance, as it will be immediate?
+user: okay sure
+user: that would be nice
+user: why is it stated that order delivered?
+user: do u have any proof my order delivered?
+agent: You may check the status again.
+agent: We have refunded your to your ZUS Balance.
+agent: Once again, we are so sorry you experienced that. We strive to provide a much better experience than what you’ve had today. 
+agent: Is there anything else I can help you with?
+user: alright
+user: refund received
+user: thank you so much for your help
+user: have a nice day
+agent: You are welcome.
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊,Primary Concern: Extended waiting period for order delivery leading to cancellation request.
+
+Identified Problem: The order was not prepared in a timely manner due to the absence of an assigned rider, resulting in a prolonged wait time for the customer.
+
+Contributing Factors:
+- Lack of rider availability at the outlet.
+- Inefficient communication regarding order status and delays.
+
+Customer sentiment: Frustrated and impatient due to the long wait time and confusion over the order status.
+
+Resolution Offered: The agent offered a refund to the customer's ZUS Balance, which was accepted by the customer.
+
+Potential Relevant Departments/Persons:
+- Operations Department (to address rider assignment and order preparation issues)
+- Customer Service Management (to improve communication and response times),1934
+454943,Cancellation,Grab,Cancellation - Long Waiting Time,user: Order ID: 24080114742 Order Status: Upon checking, the outlet is already preparing your order. If in within 3 attempts we are unable to find you a rider ( 3 attempts in within 30 mins ) the system will auto refund back to your account. Payment Method: ZUS Balance Ticket Category: Cancel Order Issue: Extended waiting period Chat/ Image URL: Not provided Channel: Mobile App Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c33e5cf6a73b0e47331dd4d3a9663b379d697055966883f2ffb32c7515834432745111e06bf20124d4/66ab2716cc22cd0001216657
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: English
+agent: Great! May I have your mobile number?
+(eg: 601XXXXXXXX)
+
+user: 60132125626
+agent: Thank you for your details.
+
+agent: Hi muizudin sawaludin how can I help you today?
+
+user: My order has been more than 2 hours
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Hi muizudin sawaludin how can I help you today?
+
+user: 2
+agent: We apologize for not meeting your expectations on this occasion.
+
+Please select the reason for cancellation
+
+user: Extended waiting period
+agent: Kindly provide us with your Order ID (eg: MY0290-23123126284) for further assistance.
+
+user: 24080114742
+agent: Upon checking, the outlet has not started preparing your order because there is no rider assigned at the moment. If we are unable to find a rider within 3 attempts (within 30 minutes), the system will automatically process the refund to your ZUS Balance.
+
+agent: Did I answer your question?
+
+user: No
+user: My order has been more than 2 hours, not 30 minutes
+user: but the order still not cancelled yet
+agent: Hi this is ZUS, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Muizudin Sawaludin, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+
+user: Hello, what going on. What else need to review. Obviously you cant find any rider
+user: why not
+user: Just cancel it
+user: its has been more than 2 hours to find rider
+user: 2
+user: Hello?
+user: “We are here to assist you!”
+user: Where are you
+user: Hello?
+user: 6
+agent: Hi there, greetings from ZUS Coffee! 
+
+agent: My name is Sheena and I'll be assisting you for today.
+
+user: What’s happening here
+user: what happen to the review
+user: I dont need u to intro who u are
+user: i just want to cancel the order
+user: it has been 30mins since the chat started
+user: and the robo answer intially said after 30mins unable to get rider will be automatically cancelled
+user: this chat is longer than 30mins already
+agent: I understand, please give me a few minutes to check on this matter for you. Thank you!
+
+user: I have been waiting for 2 and half hours already
+user: I has been TWO AND HALF HOURS already
+user: why do u need more time to review
+user: what happend to automaticall cancel the order after 30 minutes
+user: you obviously cant fulfill the order
+user: why try to delay it further
+user: just cancel it
+user: Back to silence again
+user: after this again introducing yourself
+user: then will need few minutEs again
+user: hello?
+user: hello?
+user: hello?
+user: hello?
+agent: Apologies for the long wait and thank you for staying on the line. I greatly appreciate your patience.
+
+agent: May we place new order for you as soon as possible or would you like a refund?
+
+user: Hello, are you dumb? Ive ask so many times to cancel
+user: why on earth i want to order again
+user: just cancel it and refund me the money
+user: Hello, why ther order still active
+user: wheres my refund
+user: do i have to wait “few minutes “ when u meant hours!
+user: Hey Sheena, it has been officially 3 hours now since the order made
+user: your so call automatically cancel and refund after 30mins is just a bullshit u tell was it
+user: it has been 3HOURS, not 30 mins
+user: why my order stil active
+user: Where’s my refund
+agent: Apologies for the long wait and thank you for staying on the line. I greatly appreciate your patience.
+
+agent: Kindly be informed that already made refund to your ZUS apps. Kindly check the apps. Once again, we apologize for the inconvenience and hope to serve you better in the future.
+
+agent: Aside from this, is there anything else that I can assist you? 
+
+agent: Hi, just wanted to check in and see if you're still with me?
+
+agent: As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+Thank you and have a pleasant day ahead! 😊
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: My order has been more than 2 hours, not 30 minutes
+user: but the order still not cancelled yet
+agent: Hi this is ZUS, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: Hi Muizudin Sawaludin, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+user: Hello, what going on. What else need to review. Obviously you cant find any rider
+user: why not
+user: Just cancel it
+user: its has been more than 2 hours to find rider
+user: 2
+user: Hello?
+user: “We are here to assist you!”
+user: Where are you
+user: Hello?
+user: 6
+agent: Hi there, greetings from ZUS Coffee! 
+agent: My name is Sheena and I'll be assisting you for today.
+user: What’s happening here
+user: what happen to the review
+user: I dont need u to intro who u are
+user: i just want to cancel the order
+user: it has been 30mins since the chat started
+user: and the robo answer intially said after 30mins unable to get rider will be automatically cancelled
+user: this chat is longer than 30mins already
+agent: I understand, please give me a few minutes to check on this matter for you. Thank you!
+user: I have been waiting for 2 and half hours already
+user: I has been TWO AND HALF HOURS already
+user: why do u need more time to review
+user: what happend to automaticall cancel the order after 30 minutes
+user: you obviously cant fulfill the order
+user: why try to delay it further
+user: just cancel it
+user: Back to silence again
+user: after this again introducing yourself
+user: then will need few minutEs again
+user: hello?
+user: hello?
+user: hello?
+user: hello?
+agent: Apologies for the long wait and thank you for staying on the line. I greatly appreciate your patience.
+agent: May we place new order for you as soon as possible or would you like a refund?
+
+user: Hello, are you dumb? Ive ask so many times to cancel
+user: why on earth i want to order again
+user: just cancel it and refund me the money
+user: Hello, why ther order still active
+user: wheres my refund
+user: do i have to wait “few minutes “ when u meant hours!
+user: Hey Sheena, it has been officially 3 hours now since the order made
+user: your so call automatically cancel and refund after 30mins is just a bullshit u tell was it
+user: it has been 3HOURS, not 30 mins
+user: why my order stil active
+user: Where’s my refund
+agent: Apologies for the long wait and thank you for staying on the line. I greatly appreciate your patience.
+agent: Kindly be informed that already made refund to your ZUS apps. Kindly check the apps. Once again, we apologize for the inconvenience and hope to serve you better in the future.
+agent: Aside from this, is there anything else that I can assist you? 
+agent: Hi, just wanted to check in and see if you're still with me?
+agent: As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.Thank you and have a pleasant day ahead! 😊,Primary Concern: Extended waiting period for order delivery and lack of cancellation response.
+
+Identified Problem: The customer experienced a delay of over 3 hours without receiving their order, despite the system's promise of automatic cancellation and refund after 30 minutes if no rider was found.
+
+Contributing Factors:
+- Lack of communication and updates from the agent regarding the status of the order.
+- The agent's repeated requests for patience without taking immediate action to resolve the issue.
+
+Customer sentiment: Frustrated and angry, as evidenced by repeated demands for cancellation and refund, and expressions of dissatisfaction with the service.
+
+Resolution Offered: The agent eventually confirmed that a refund had been processed to the customer's ZUS app, but the customer was dissatisfied with the delay and the handling of the situation.
+
+Potential Relevant Departments/Persons:
+- Customer Service Management
+- Operations Team (to address rider assignment issues)
+- IT Department (to review the automated cancellation and refund system),2422
+454832,Cancellation,Tech,Cancellation - Long Waiting Time,user: Order ID: 24080112236 Ticket Category: Order not received Issue: Sibu town square, Sibu Sarawak Channel: WhatsApp Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c37116acfd660b493b5099d3b8727c67cb2d3405d621/66ab23ae1afa3c000120a193
+user: 
+user: I’ve order via apps this morning around 11.18am and ready by 12.45pm but i cant get my order, i go to outlet Sibu Town Square phase 2 for pick up but cannot find my order, can i just refund or get another one..thanks
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: en
+agent: Thank you for your details.
+
+agent: Hi Rafedah Abdul Aziz how can I help you today?
+
+user: 
+user: I’ve order via apps this morning around 11.18am and ready by 12.45pm but i cant get my order, i go to outlet Sibu Town Square phase 2 for pick up but cannot find my order, can i just refund or get another one..thanks
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Hi Rafedah Abdul Aziz how can I help you today?
+
+user: 3
+agent: Understood.
+Please select the relevant options so I can assist you more effectively.
+
+user: 7
+agent: We're sorry for the unpleasant experience you have encountered with us. Allow us check and get to the bottom of this!
+
+agent: Please share the order ID (eg: MY0290-23123126284) for our reference.
+
+user: 24080112236
+agent: Can you please tell us which are the affected item(s)?
+Example:
+Didn't receive the whole order.
+
+user: Sibu town square, Sibu Sarawak
+agent: Greetings from ZUS Coffee! This is Nur. We apologize for the delayed response as we are receiving high volume of chats at the moment.
+
+agent: Upon checking, the order has been marked as delivered/completed. Did you receive it?
+
+user: No, i even go to the outlet for pick up
+user: But the staff cant find it
+user: Until now, i didnt get the drinks
+agent: We understand how unpleasant this experience must have been for you and we would like to apologize for this.
+
+agent: We regret to inform you that we were experiencing a technical outage hence why the order was not synced in the system.
+
+agent: Rest assured that our relevant team is working hard to get the issue fixed the soonest possible, and once again, we are deeply sorry for the inconvenience caused.
+
+agent: In the meantime, we will issued a refund to your original payment method. Please note that the average refund processing time can take up to 14 working days exclude weekend and public holiday.
+
+user: Ok thanks
+agent: You're most welcome. We trust that we have addressed your inquiry and once again we sincerely apologize for the inconvenience caused.
+
+agent: Kindly reopen this chat if you need further assistance from our end. Please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+Thank you and have a pleasant day ahead! 😊
+
+agent: Based on your conversation, please rate our services on a scale from 1-5.
+1 being the least and 5 being the highest
+
+user: five
+agent: I'm glad.
+Please feel free to reach out to me for any further queries.
+
+When in need just say "Hi"
+
+agent: Greetings from ZUS Coffee! This is Nur. We apologize for the delayed response as we are receiving high volume of chats at the moment.
+agent: Upon checking, the order has been marked as delivered/completed. Did you receive it? 
+
+user: No, i even go to the outlet for pick up
+user: But the staff cant find it
+user: Until now, i didnt get the drinks
+agent: We understand how unpleasant this experience must have been for you and we would like to apologize for this.
+agent: We regret to inform you that we were experiencing a technical outage hence why the order was not synced in the system.
+
+agent: Rest assured that our relevant team is working hard to get the issue fixed the soonest possible, and once again, we are deeply sorry for the inconvenience caused.
+
+agent: In the meantime, we will issued a refund to your original payment method. Please note that the average refund processing time can take up to 14 working days exclude weekend and public holiday.
+
+user: Ok thanks
+agent: You're most welcome. We trust that we have addressed your inquiry and once again we sincerely apologize for the inconvenience caused.
+
+agent: Kindly reopen this chat if you need further assistance from our end. Please do not hesitate to chat with us here and we will assist you as soon as we can. Thank you and have a pleasant day ahead! 😊
+user: Order ID: 24080112236 Order Status: Upon checking, your order has been refunded. Payment Method: Online Banking Ticket Category: Cancel Order Issue: Extended waiting period Chat/ Image URL: Not provided Channel: Mobile App Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c33040eea168534c73179fd3a966393b936b7557926187f6ffb32c7515834432745111e06bf20124d4/66ab254e0c401f000132c58f
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: 
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Please select the language you want to converse in
+
+user: 
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Please select the language you want to converse in
+
+user: Malay
+agent: Bolehkah saya mendapatkan nombor telefon bimbit anda?
+(eg: 601XXXXXXXX)
+
+user: 019-857-8771
+agent: Maaf, nombor telefon yang anda masukkan tidak sah. Sila pastikan anda telah memasukkan nombor telefon berdaftar dengan ZUS Coffee yang sah.
+(ex: 601XXXXXXXX)
+
+user: 60198578771
+agent: Terima kasih atas maklumat anda.
+
+agent: Hai Rafedah Abdul Aziz, bagaimana saya boleh membantu anda hari ini?
+
+user: 3
+agent: Faham.
+Sila pilih pilihan yang berkaitan agar saya dapat membantu anda dengan lebih efektif.
+
+user: 
+agent: Maaf, saya tidak faham permintaan anda. Sila pilih daripada menu.
+
+agent: Faham.
+Sila pilih pilihan yang berkaitan agar saya dapat membantu anda dengan lebih efektif.
+
+user: pesanan sudah di pesan dari jam 11 pagi
+agent: Maaf, saya tidak faham permintaan anda. Sila pilih daripada menu.
+
+agent: Faham.
+Sila pilih pilihan yang berkaitan agar saya dapat membantu anda dengan lebih efektif.
+
+user: bila datang untuk ambil pesanan , expedite area cakap tiada jumpa order
+agent: Maaf, saya tidak faham permintaan anda. Sila pilih daripada menu.
+
+agent: Faham.
+Sila pilih pilihan yang berkaitan agar saya dapat membantu anda dengan lebih efektif.
+
+user: 3
+agent: Kami sangat memohon maaf bahawa produk telah kehabisan stok. Anda akan dikembalikan bayaran bagi item yang tidak tersedia.
+
+agent: Sila kongsi ID (contohnya: MY0290-23123126284) pesanan untuk rujukan kami.
+
+user: 24080112236
+agent: Sila berikan kami gambar yang jelas mengenai item yang anda terima agar kami dapat membantu anda dengan sewajarnya.
+
+user: 
+user: 260:1
+user: 260:1
+user: 260:1
+user: Go back
+user: pesanan sudah di pesan dari jam 11 pagi
+agent: Hi Rafedah Abdul Aziz, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+
+user: 2
+user: 2
+user: 2
+agent: Hi this is Buvana, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: We apologize for the delay in responding as we have received many requests. Rest assured, our team is improving their response time to inquiries.
+
+agent: Upon checking we understand that your order has been picked up. Is everything good with your order?
+
+user: but I didn't pickup my order
+user: at the apps said the order have been pickup
+agent: We are extremely sorry for the unpleasant experience you have encountered with us.
+
+agent: May we refund the order to your ZUS balance?
+
+agent: We have cancelled and refunded the order to your ZUS balance. Kindly check and get back to us if you need any assistance.
+
+agent: We deeply regret any inconvenience or frustration our services may have caused you. We value your business and want to ensure that we make things right in the future.
+
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊
+
+agent: Berdasarkan perbualan sebentar tadi, sila nilai perkhidmatan kami dari skala 1 hingga 5.
+1 bermakna yang paling rendah dan 5 bermakna yang tertinggi.
+
+user: i want refund please
+agent: Maaf, saya tidak faham permintaan anda. Sila pilih daripada menu.
+
+agent: Berdasarkan perbualan sebentar tadi, sila nilai perkhidmatan kami dari skala 1 hingga 5.
+1 bermakna yang paling rendah dan 5 bermakna yang tertinggi.
+
+user: ⭐️⭐️
+agent: Kami memohon maaf atas sebarang kesulitan yang anda alami. Maklum balas anda adalah penting bagi kami dan kami sentiasa berusaha untuk menambah baik.
+
+Sila maklumkan kepada kami cara kami boleh melayani anda dengan lebih baik. Terima kasih kerana membantu kami bertambah baik!
+
+user: 2
+agent: Sila kembali jika mempunyai sebarang soalan untuk semakan lebih lanjut.
+
+Apabila memerlukan bantuan, hanya katakan "Hi"
+
+user: hi
+agent: Hai Rafedah Abdul Aziz, bagaimana saya boleh membantu anda hari ini?
+
+user: 2
+agent: Kami memohon maaf kerana tidak dapat memenuhi jangkaan anda pada kali ini.
+
+Sila pilih sebab pembatalan
+
+user: Pesanan belum terima
+agent: Sila berikan ID Pesanan anda (contohnya: MY0290-23123126284) untuk bantuan lanjut.
+
+user: 24080112236
+agent: Setelah disemak, kami telah memproses bayaran balik untuk pesanan anda.
+
+agent: Adakah saya telah menjawab soalan anda?
+
+user: Ya
+agent: Berdasarkan perbualan sebentar tadi, sila nilai perkhidmatan kami dari skala 1 hingga 5.
+1 bermakna yang paling rendah dan 5 bermakna yang tertinggi.
+
+user: ⭐️⭐️⭐️
+agent: Kami memohon maaf atas sebarang kesulitan yang anda alami. Maklum balas anda adalah penting bagi kami dan kami sentiasa berusaha untuk menambah baik.
+
+Sila maklumkan kepada kami cara kami boleh melayani anda dengan lebih baik. Terima kasih kerana membantu kami bertambah baik!
+
+user: hi
+agent: Sila kembali jika mempunyai sebarang soalan untuk semakan lebih lanjut.
+
+Apabila memerlukan bantuan, hanya katakan "Hi"
+
+user: hi
+agent: Hai Rafedah Abdul Aziz, bagaimana saya boleh membantu anda hari ini?
+
+user: 2
+agent: Kami memohon maaf kerana tidak dapat memenuhi jangkaan anda pada kali ini.
+
+Sila pilih sebab pembatalan
+
+user: Menu Utama
+agent: Hai Rafedah Abdul Aziz, bagaimana saya boleh membantu anda hari ini?
+
+user: 2
+agent: Kami memohon maaf kerana tidak dapat memenuhi jangkaan anda pada kali ini.
+
+Sila pilih sebab pembatalan
+
+user: Pesanan belum terima
+agent: Sila berikan ID Pesanan anda (contohnya: MY0290-23123126284) untuk bantuan lanjut.
+
+user: 24080112236
+agent: Setelah disemak, kami telah memproses bayaran balik untuk pesanan anda.
+
+agent: Adakah saya telah menjawab soalan anda?
+
+user: Tidak
+agent: Hi Rafedah Abdul Aziz, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+
+agent: Berdasarkan perbualan sebentar tadi, sila nilai perkhidmatan kami dari skala 1 hingga 5.
+1 bermakna yang paling rendah dan 5 bermakna yang tertinggi.
+
+agent: Hi Rafedah Abdul Aziz, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+user: Order ID: 24080112236 Ticket Category: Out Of Stock Chat/ Image URL: https://r3.app.yellow.ai/api/blob-proxy/render/r3-ym-uploads/eDE3MTAyMzQ2NjkzNzcvNGY0YjhlNGEtMTcxMy00YzljLWI0ODUtYjg2MmY3NzY4YjBmLmpwZw== Channel: Mobile App Chat URL: https://cloud.yellow.ai/public/messages/a9c98542dd91bca8b5a09e8ad27023c33040eea168534c73179fd3a966393b936b7557926187f6ffb32c7515834432745111e06bf20124d4/66ab254e0c401f000132c58f
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+agent: Welcome to ZUS Coffee! ⚡
+
+agent: Please select the language you want to converse in
+
+user: 
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Please select the language you want to converse in
+
+user: 
+agent: My apologies, I do not understand your request. Please select from the menu.
+
+agent: Please select the language you want to converse in
+
+user: Malay
+agent: Bolehkah saya mendapatkan nombor telefon bimbit anda?
+(eg: 601XXXXXXXX)
+
+user: 019-857-8771
+agent: Maaf, nombor telefon yang anda masukkan tidak sah. Sila pastikan anda telah memasukkan nombor telefon berdaftar dengan ZUS Coffee yang sah.
+(ex: 601XXXXXXXX)
+
+user: 60198578771
+agent: Terima kasih atas maklumat anda.
+
+agent: Hai Rafedah Abdul Aziz, bagaimana saya boleh membantu anda hari ini?
+
+user: 3
+agent: Faham.
+Sila pilih pilihan yang berkaitan agar saya dapat membantu anda dengan lebih efektif.
+
+user: 
+agent: Maaf, saya tidak faham permintaan anda. Sila pilih daripada menu.
+
+agent: Faham.
+Sila pilih pilihan yang berkaitan agar saya dapat membantu anda dengan lebih efektif.
+
+user: pesanan sudah di pesan dari jam 11 pagi
+agent: Maaf, saya tidak faham permintaan anda. Sila pilih daripada menu.
+
+agent: Faham.
+Sila pilih pilihan yang berkaitan agar saya dapat membantu anda dengan lebih efektif.
+
+user: bila datang untuk ambil pesanan , expedite area cakap tiada jumpa order
+agent: Maaf, saya tidak faham permintaan anda. Sila pilih daripada menu.
+
+agent: Faham.
+Sila pilih pilihan yang berkaitan agar saya dapat membantu anda dengan lebih efektif.
+
+user: 3
+agent: Kami sangat memohon maaf bahawa produk telah kehabisan stok. Anda akan dikembalikan bayaran bagi item yang tidak tersedia.
+
+agent: Sila kongsi ID (contohnya: MY0290-23123126284) pesanan untuk rujukan kami.
+
+user: 24080112236
+agent: Sila berikan kami gambar yang jelas mengenai item yang anda terima agar kami dapat membantu anda dengan sewajarnya.
+
+user: 
+user: 260:1
+user: 260:1
+user: 260:1
+user: Go back
+user: pesanan sudah di pesan dari jam 11 pagi
+agent: Hi Rafedah Abdul Aziz, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+
+user: 2
+user: 2
+user: 2
+agent: Hi this is Buvana, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: We apologize for the delay in responding as we have received many requests. Rest assured, our team is improving their response time to inquiries.
+
+agent: Upon checking we understand that your order has been picked up. Is everything good with your order?
+
+user: but I didn't pickup my order
+user: at the apps said the order have been pickup
+agent: We are extremely sorry for the unpleasant experience you have encountered with us.
+
+agent: May we refund the order to your ZUS balance?
+
+agent: We have cancelled and refunded the order to your ZUS balance. Kindly check and get back to us if you need any assistance.
+
+agent: We deeply regret any inconvenience or frustration our services may have caused you. We value your business and want to ensure that we make things right in the future.
+
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊
+
+agent: Berdasarkan perbualan sebentar tadi, sila nilai perkhidmatan kami dari skala 1 hingga 5.
+1 bermakna yang paling rendah dan 5 bermakna yang tertinggi.
+
+user: i want refund please
+agent: Maaf, saya tidak faham permintaan anda. Sila pilih daripada menu.
+
+agent: Berdasarkan perbualan sebentar tadi, sila nilai perkhidmatan kami dari skala 1 hingga 5.
+1 bermakna yang paling rendah dan 5 bermakna yang tertinggi.
+
+user: ⭐️⭐️
+agent: Kami memohon maaf atas sebarang kesulitan yang anda alami. Maklum balas anda adalah penting bagi kami dan kami sentiasa berusaha untuk menambah baik.
+
+Sila maklumkan kepada kami cara kami boleh melayani anda dengan lebih baik. Terima kasih kerana membantu kami bertambah baik!
+
+user: 2
+agent: Sila kembali jika mempunyai sebarang soalan untuk semakan lebih lanjut.
+
+Apabila memerlukan bantuan, hanya katakan "Hi"
+
+user: hi
+agent: Hai Rafedah Abdul Aziz, bagaimana saya boleh membantu anda hari ini?
+
+user: 2
+agent: Kami memohon maaf kerana tidak dapat memenuhi jangkaan anda pada kali ini.
+
+Sila pilih sebab pembatalan
+
+user: Pesanan belum terima
+agent: Sila berikan ID Pesanan anda (contohnya: MY0290-23123126284) untuk bantuan lanjut.
+
+user: 24080112236
+agent: Setelah disemak, kami telah memproses bayaran balik untuk pesanan anda.
+
+agent: Adakah saya telah menjawab soalan anda?
+
+user: Ya
+agent: Berdasarkan perbualan sebentar tadi, sila nilai perkhidmatan kami dari skala 1 hingga 5.
+1 bermakna yang paling rendah dan 5 bermakna yang tertinggi.
+
+user: ⭐️⭐️⭐️
+agent: Kami memohon maaf atas sebarang kesulitan yang anda alami. Maklum balas anda adalah penting bagi kami dan kami sentiasa berusaha untuk menambah baik.
+
+Sila maklumkan kepada kami cara kami boleh melayani anda dengan lebih baik. Terima kasih kerana membantu kami bertambah baik!
+
+user: hi
+agent: Sila kembali jika mempunyai sebarang soalan untuk semakan lebih lanjut.
+
+Apabila memerlukan bantuan, hanya katakan "Hi"
+
+user: hi
+agent: Hai Rafedah Abdul Aziz, bagaimana saya boleh membantu anda hari ini?
+
+user: 2
+agent: Kami memohon maaf kerana tidak dapat memenuhi jangkaan anda pada kali ini.
+
+Sila pilih sebab pembatalan
+
+user: Menu Utama
+agent: Hai Rafedah Abdul Aziz, bagaimana saya boleh membantu anda hari ini?
+
+user: 2
+agent: Kami memohon maaf kerana tidak dapat memenuhi jangkaan anda pada kali ini.
+
+Sila pilih sebab pembatalan
+
+user: Pesanan belum terima
+agent: Sila berikan ID Pesanan anda (contohnya: MY0290-23123126284) untuk bantuan lanjut.
+
+user: 24080112236
+agent: Setelah disemak, kami telah memproses bayaran balik untuk pesanan anda.
+
+agent: Adakah saya telah menjawab soalan anda?
+
+user: Tidak
+agent: Hi Rafedah Abdul Aziz, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+
+agent: Berdasarkan perbualan sebentar tadi, sila nilai perkhidmatan kami dari skala 1 hingga 5.
+1 bermakna yang paling rendah dan 5 bermakna yang tertinggi.
+
+user: 260:1
+user: 260:1
+user: Go back
+user: pesanan sudah di pesan dari jam 11 pagi
+agent: Hi Rafedah Abdul Aziz, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+user: 2
+user: 2
+user: 2
+agent: Hi this is Buvana, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: We apologize for the delay in responding as we have received many requests. Rest assured, our team is improving their response time to inquiries.
+agent: Upon checking we understand that your order has been picked up. Is everything good with your order?
+user: but I didn't pickup my order
+user: at the apps said the order have been pickup
+agent: We are extremely sorry for the unpleasant experience you have encountered with us.
+agent: May we refund the order to your ZUS balance?
+agent: We have cancelled and refunded the order to your ZUS balance. Kindly check and get back to us if you need any assistance.
+agent: We deeply regret any inconvenience or frustration our services may have caused you. We value your business and want to ensure that we make things right in the future.
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊,Primary Concern: Order not received and refund request
+Identified Problem: The customer's order was marked as delivered, but the customer did not receive it and was unable to find it at the outlet.
+Contributing Factors:
+- Technical outage that caused the order not to sync in the system.
+- Miscommunication regarding the order status, as the app indicated the order was picked up when it was not.
+Customer sentiment: Frustrated and disappointed due to the inconvenience and lack of clarity regarding the order status.
+Resolution Offered: The agent issued a refund to the customer's original payment method and apologized for the inconvenience.
+Potential Relevant Departments/Persons:
+- IT Department (to address the technical outage and system syncing issues)
+- Customer Service Management (to improve communication and response times),5319
+435710,Cancellation,Tech,Cancellation - Long Waiting Time,user: Order not delivered yet?
+agent: Hi Mimi Hidayu, we're currently handling multiple inquiries. Please bear with us as we prioritise and attend to yours as soon as possible. Thank you for your patience.
+user: My order not delivered yet, Almost 1 hour. Can i cancel?
+agent: Hi this is Misha, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: Hello where is my order?
+agent: We are extremely sorry for the delay as we had to handle multiple inquiries, Mimi.
+agent: We are checking on this with the outlet.
+agent: We are truly sorry for the slow service, Mimi.
+user: Can I cancel my order n refund back mu money?
+user: *my
+agent: Yes, we can proceed as you have requested.
+agent: Would you like the refund to be returned via ZUS Balance as it will be immediate, Mimi?
+user: Ok thank you
+user: Ok
+agent: Your welcome.
+agent: We have refunded your amount via ZUS Balance. Kindly check on your account.
+agent: Once again, we sincerely apologize for the inconvenience caused and assure you we will improve our service.
+agent: Hope this helps, Mimi.
+agent: Kindly reopen this chat if you need further assistance from our end. Please do not hesitate to chat with us here and we will assist you as soon as we can. Once again we truly apologize for our late response.Thank you and have a pleasant day ahead! 😊,Primary Concern: Order not delivered within the expected timeframe, leading to a request for cancellation and refund.
+
+Identified Problem: Delay in order delivery, which exceeded one hour.
+
+Contributing Factors:
+- High volume of inquiries leading to slow response times.
+- Lack of timely updates regarding the status of the order.
+
+Customer sentiment: Frustrated and impatient due to the delay in service.
+
+Resolution Offered: The agent confirmed the cancellation of the order and processed a refund via ZUS Balance.
+
+Potential Relevant Departments/Persons:
+- Customer Service Department (to address service delays)
+- Operations Department (to investigate order fulfillment issues),682
