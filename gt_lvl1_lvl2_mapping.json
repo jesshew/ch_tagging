@@ -1,124 +1,105 @@
 {
-    "Ticket Categories": {
-      "Customer Account Details": {
-        "Customer Account Details": {
-        "Change / Update Info": {},
-        "ZUS Balance Withdrawal": {},
-        "Unsubscribe": {}
-        }
-      },
-      "Outlet": {
-        "Product / Menu Details": {
-          "Outlet Details": {},
-          "OOS": {},
-          "Incorrect / Misleading Info": {},
-          "Quality Complaint - Drink": {},
-          "Quality Complaint - Food - Cake": {},
-          "Quality Complaint - Food - Pastries": {},
-          "Quality Complaint - Hot Food": {},
-          "Hygiene - Drink": {},
-          "Hygiene - Food": {},
-          "Wrong Order / Item(s)": {},
-          "Wrong Drink": {},
-          "Wrong Food": {},
-          "Received Extra Item(s)": {},
-          "Outlet Not Open": {},
-          "Performance - Outlet / Staff Hygiene": {},
-          "Performance - Barista Behaviour / Service": {},
-          "Foam Issue": {},
-          "Frappe Issue": {},
-          "Hot / Iced Mistakes": {},
-          "Outlet - Air Conditioner Issue": {},
-          "Outlet - Blackout": {},
-          "Outlet - Flooded": {},
-          "Outlet - Water Disruption": {},
-          "Outlet - Internet Issue": {},
-          "Machines - Broke down": {},
-          "Machines - Maintenance": {},
-          "Packaging": {},
-          "No - Straw Given / Cutleries": {},
-          "Slow Order Preparation": {},
-          "Slow Rider Allocation": {}
-        }
-      },
-      "Promotion / Voucher": {
-        "Promotion / Voucher": {
-        "Inquiry / Method": {},
-        "Misleading / Dissatisfaction": {},
-        "Missed Out - Promo Code": {}
-        }
-      },
-      "Order Info / Status": {
-        "Pickup Info / Status": {
-          "Pickup / Delivery Mistakes": {},
-          "Wrong Outlet / Address - Voucher Code": {},
-          "Wrong Outlet / Address - NA": {},
-          "Missed Out - Drinks Remarks": {},
-          "Missed Out - Order": {},
-          "Missed Out - Remarks": {}
-        }
-      },
-      "Payment": {
-        "Payment Status": {
-          "Payment Error / Failure": {},
-          "Unauthorised Payment": {},
-          "Double Payment Charges": {}
-        }
-      },
-      "Cancellation": {
-        "Cancellation": {
-        "Cancellation - Incorrect Order": {},
-        "Cancellation - Long Waiting Time": {},
-        "Cancellation - No Rider": {},
-        "Cancellation - Wrong Outlet / Address": {}
-        }
-      },
-      "Refund": {
-        "Refund Status": {
-          "Refund Error / Failure": {},
-          "Refund Delivery Fees": {},
-          "Incorrect Refund Amount / Channel": {}
-        }
-      },
-      "Return": {
-        "Return":{
-        "Customer Unreachable / Unavailable": {}
-        }
-      },
-      "Delivery": {
-        "Delivery Info / Status": {
-          "Delivery Range": {},
-          "Tracking Error": {},
-          "Slow Delivery Service": {},
-          "Failed Delivery": {},
-          "Spillage": {},
-          "Wrong Address / Recipient": {},
-          "Rider Behavior": {}
-        }
-      },
-      "Feedback / Improvement": {
-        "Feedback / Improvement": {
-        "Suggestion - New Outlet": {},
-        "Product": {},
-        "KDS & Xilnex Issue": {},
-        "App - Buffering / Lag": {},
-        "App - Loyalty Issue": {},
-        "App - OTP": {},
-        "App - Gift Cards": {},
-        "Compliment (WOW)": {},
-        "Complaints": {}
-        }
-      },
-      "Other(s)": {
-        "Other(s)": {
-        "Career": {},
-        "Partnership / Sponsor": {},
-        "Products / Suppliers": {},
-        "Franchise": {},
-        "Employee Welfare (Retail Ops)": {},
-        "Bot Conversation": {}
-      }
-    }
-    }
+  "Customer Account Details": {
+    "Change / Update Info": {},
+    "ZUS Balance Withdrawal": {},
+    "Unsubscribe": {}
+  },
+  "Outlet": {
+    "Product / Menu Details": {},
+    "Outlet Details": {},
+    "OOS": {},
+    "Incorrect / Misleading Info": {},
+    "Quality Complaint - Drink": {},
+    "Quality Complaint - Food - Cake": {},
+    "Quality Complaint - Food - Pastries": {},
+    "Quality Complaint - Hot Food": {},
+    "Hygiene - Drink": {},
+    "Hygiene - Food": {},
+    "Wrong Order / Item(s)": {},
+    "Wrong Drink": {},
+    "Wrong Food": {},
+    "Received Extra Item(s)": {},
+    "Outlet Not Open": {},
+    "Performance - Outlet / Staff Hygiene": {},
+    "Performance - Barista Behaviour / Service": {},
+    "Foam Issue": {},
+    "Frappe Issue": {},
+    "Hot / Iced Mistakes": {},
+    "Outlet - Air Conditioner Issue": {},
+    "Outlet - Blackout": {},
+    "Outlet - Flooded": {},
+    "Outlet - Water Disruption": {},
+    "Outlet - Internet Issue": {},
+    "Machines - Broke down": {},
+    "Machines - Maintenance": {},
+    "Packaging": {},
+    "No - Straw Given / Cutleries": {},
+    "Slow Order Preparation": {},
+    "Slow Rider Allocation": {}
+
+  },
+  "Promotion / Voucher": {
+    "Inquiry / Method": {},
+    "Misleading / Dissatisfaction": {},
+    "Missed Out - Promo Code": {}
+  },
+  "Order Info / Status": {
+    "Pickup Info / Status": {},
+    "Pickup / Delivery Mistakes": {},
+    "Wrong Outlet / Address - Voucher Code": {},
+    "Wrong Outlet / Address - NA": {},
+    "Missed Out - Drinks Remarks": {},
+    "Missed Out - Order": {},
+    "Missed Out - Remarks": {}
+  },
+  "Payment": {
+    "Payment Status": {},
+    "Payment Error / Failure": {},
+    "Unauthorised Payment": {},
+    "Double Payment Charges": {}
+  },
+  "Cancellation": {
+    "Cancellation - Incorrect Order": {},
+    "Cancellation - Long Waiting Time": {},
+    "Cancellation - No Rider": {},
+    "Cancellation - Wrong Outlet / Address": {}
+  },
+  "Refund": {
+    "Refund Status": {},
+    "Refund Error / Failure": {},
+    "Refund Delivery Fees": {},
+    "Incorrect Refund Amount / Channel": {}
+  },
+  "Return": {
+    "Customer Unreachable / Unavailable": {}
+  },
+  "Delivery": {
+    "Delivery Info / Status": {},
+    "Delivery Range": {},
+    "Tracking Error": {},
+    "Slow Delivery Service": {},
+    "Failed Delivery": {},
+    "Spillage": {},
+    "Wrong Address / Recipient": {},
+    "Rider Behavior": {}
+  },
+  "Feedback / Improvement": {
+    "Suggestion - New Outlet": {},
+    "Product": {},
+    "KDS & Xilnex Issue": {},
+    "App - Buffering / Lag": {},
+    "App - Loyalty Issue": {},
+    "App - OTP": {},
+    "App - Gift Cards": {},
+    "Compliment (WOW)": {},
+    "Complaints": {}
+  },
+  "Other(s)": {
+    "Career": {},
+    "Partnership / Sponsor": {},
+    "Products / Suppliers": {},
+    "Franchise": {},
+    "Employee Welfare (Retail Ops)": {},
+    "Bot Conversation": {}
   }
-  
+}
