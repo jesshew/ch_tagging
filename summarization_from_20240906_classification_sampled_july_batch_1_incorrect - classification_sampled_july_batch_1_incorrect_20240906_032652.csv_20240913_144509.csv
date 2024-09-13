@@ -1,0 +1,56 @@
+ticket.id,gt_category_1,gt_department,gt_category_2,text,summary,token_count
+436156,Outlet,Operation,Wrong Order / Item(s),"user: 
+Received wrong drink
+
+
+agent: Hi this is Misha, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: We are extremely sorry for the delay as we had to handle multiple inquiries.
+agent: We are extremely sorry for the wrong received drink, Shim.
+agent: May we resend you the correct drink Iced CEO Coconut Latté (add on velvet creme) to the same address as soon as possible or would you prefer to be refunded instead?
+agent: Hi, just wanted to check in and see if you're still with me?
+agent: 
+As we have not heard back from you for some time, we'll proceed to close this chat. Should you need further assistance, please do not hesitate to chat with us here and we will assist you as soon as we can.
+
+Thank you and have a pleasant day ahead! 😊
+
+agent: We've attended your previous chat. To maintain system clarity and efficiency, we will be closing this conversation.Thank you immensely for your continued support. We're here and ready to assist with any future inquiries or concerns you might have.
+user: Have a nice day to you too
+user: Bye~~~
+agent: Hi this is Khuzairi, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+agent: We've attended your previous chat. To maintain system clarity and efficiency, we will be closing this conversation.Thank you immensely for your continued support. We're here and ready to assist with any future inquiries or concerns you might have.
+agent: Hi this is Nur, please give me a moment to carefully review your selected options and I'll get back to you soon. Your patience is appreciated!
+
+user: Hi good morning
+user: Will you guys resend the correct drink for me?! I will order other for trying
+agent: Hi, good day to you! This is Atieqah Asma.
+agent: Upon checking, since the order was made yesterday, we're not able to resend the drink anymore.
+agent: May we process the refund to your ZUS balance as you will receive it immediately? 
+user: Hmmmm
+user: Maybe replace others drinks with same price
+user: I will place the order ASAP
+agent: Unfortunately, we can only do recovery on the same day of the order date.
+agent: In this case, we will refund and you may proceed to re-order from your end.
+user: Ok
+user: Refund it
+user: Thank you
+agent: Thank you for the confirmation!
+agent: We have processed the refund to your ZUS Balance and you may check accordingly from your end by going to ZUS App > Account > Check the balance.
+agent: If the refund is not reflected, kindly re-login to the ZUS App.
+agent: Once again, we're extremely sorry for the unpleasant experience. 
+agent: Hope this helps. Before I end the conversation, is there anything else I can help you with?
+user: Please check before sent it ya.
+user: Thank you
+user: Let’s end it
+agent: We understand your frustration and we will forward this to our relevant team for further improvement and provide better services to you.
+agent: Most welcome!
+agent: Should you need further assistance, please do not hesitate to let us know. I'll be ending the chat here today. Thank you and have a nice day ahead! 😊
+user: Tomorrow morning I will order again. Tq","Customer sentiment: Frustrated  
+Primary Concern: Received the wrong drink  
+Identified Problem: Inability to resend the correct drink due to company policy  
+Contributing Factors:  
+- Order was placed the previous day, limiting options for resolution  
+- Miscommunication regarding the ability to resend drinks  
+Resolution Offered: Refund processed to ZUS balance; customer advised to reorder  
+Overall Summary: The customer expressed frustration over receiving the wrong drink and sought a resolution. The agent acknowledged the mistake but explained that company policy prevented resending the correct drink after the order date. Instead, a refund was offered, which the customer accepted. The interaction highlighted a miscommunication regarding the company's policy on order corrections and the limitations on resolving issues after a certain timeframe.",1179

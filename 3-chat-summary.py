@@ -17,7 +17,6 @@ def get_unique_filename(base_name):
 input_file_name = '20240906_classification_sampled_july_batch_1_incorrect - classification_sampled_july_batch_1_incorrect_20240906_032652.csv'
 main_output_file = get_unique_filename(f"summarization_from_{input_file_name}")
 
-
 client = OpenAI(api_key=OPENAI_API_KEY)
 seed = 12345
 
